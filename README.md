@@ -4,9 +4,9 @@
 
 - fig1-7: raw data, Perl, R and Python scripts to obtain figures and format results, final figures in PDF format.
 - supp_fig1-11: raw data, Perl and R scripts to obtain figures and format results, final supplementary figures in PDF format.
-- script: General Perl scripts used in this study.
+- scripts: General Perl scripts used in this study.
 
-If you use these scripts, pleas cite the paper below:
+If you use any of these scripts, please cite the paper below:
 
 [Coche-Miranda, J., Arros, P., Canales, N., Berríos-Pastén, C., Lagos, R., Orlando, J., ... & Marcoleta, A. E. (2025). A structure-guided pipeline to uncover the underexplored beta-lactamases from Antarctic and Subantarctic soil microbiota. bioRxiv, 2025-09.](https://doi.org/10.1101/2025.09.30.679653 "bioRxiv DOI").
 
