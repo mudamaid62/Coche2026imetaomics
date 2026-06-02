@@ -2,7 +2,7 @@
 
 ## Scripts for stastistics, parsing, automation, diversity indices calculation, functional similarities determination, LCA algorithms, and plotting figures in "Antarctic soil microbiomes encode structurally conserved and phylogenetically diverse beta-lactamases", published in iMetaOmics 2026.
 
-- fig1-7: raw data, Perl, R and Python scripts to obtain figures and format results, final figures in PDF format.
+- fig1-8: raw data, Perl, R and Python scripts to obtain figures and format results, final figures in PDF format.
 - supp_fig1-11: raw data, Perl and R scripts to obtain figures and format results, final supplementary figures in PDF format.
 - scripts: General Perl scripts used in this study.
 
