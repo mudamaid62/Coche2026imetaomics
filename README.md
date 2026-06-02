@@ -31,7 +31,7 @@ bwa-mem2 mem -o [mapping.sam] -t 16 [GRCh38 reference] [trimmed_R1] [trimmed_R2]
 4. Filter out the human contamination using **exclude_human_illumina.pl** and **SAMTools**
 
 ```
-perl /media/databases/exclude_human_illumina.pl [mapping.sam]
+perl exclude_human_illumina.pl [mapping.sam]
 ```
 
 5. Your reads are now ready for further analysis and/or assembly. Delete [mapping.sam]
