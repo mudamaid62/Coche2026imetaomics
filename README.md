@@ -1,6 +1,6 @@
 # Coche2026imetaomics
 
-### Scripts for stastistics, parsing, automation, diversity indices calculation, functional similarities determination, LCA algorithms, and plotting figures in "Antarctic soil microbiomes encode structurally conserved and phylogenetically diverse beta-lactamases", publiched in iMETAOMICS 2026.
+## Scripts for stastistics, parsing, automation, diversity indices calculation, functional similarities determination, LCA algorithms, and plotting figures in "Antarctic soil microbiomes encode structurally conserved and phylogenetically diverse beta-lactamases", publiched in iMETAOMICS 2026.
 
 - fig1-7: raw data, Perl, R and Python scripts to obtain figures and format results, final figures in PDF format.
 - supp_fig1-11: raw data, Perl and R scripts to obtain figures and format results, final supplementary figures in PDF format.
