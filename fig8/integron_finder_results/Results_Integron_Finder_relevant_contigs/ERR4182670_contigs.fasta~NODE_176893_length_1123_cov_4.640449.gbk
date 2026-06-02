@@ -1,0 +1,56 @@
+LOCUS       123_cov_4.640449        1123 bp    DNA              UNK 01-JAN-1980
+DEFINITION  ERR4182670_contigs.fasta~NODE_176893_length_1123_cov_4.640449.
+ACCESSION   ERR4182670_contigs.fasta~NODE_176893_length_1123_cov_4.640449
+VERSION     ERR4182670_contigs.fasta~NODE_176893_length_1123_cov_4.640449
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     integron        2..1123
+                     /integron_id="integron_01"
+                     /integron_type="CALIN"
+     CDS             complement(2..85)
+                     /protein_id="ERR4182670_contigs.fasta~NODE_176893_length_11
+                     23_cov_4.640449_1"
+                     /gene="protein"
+                     /model="NA"
+                     /translation="MEIEPRICLEMGLRGLGLNDQLARTRGR"
+     attC            17..133
+                     /attC="attc_001"
+                     /model="attc_4"
+     CDS             172..1035
+                     /protein_id="ERR4182670_contigs.fasta~NODE_176893_length_11
+                     23_cov_4.640449_2"
+                     /gene="bla_class_A-NCBIFAM"
+                     /model="NF033103.1"
+                     /translation="MKAALPLLLFIVCQASPAKGQADLSSDVAELEKSHSAKIGVALFD
+                     KDGRFLGGHRANERFAMCSTFKLPLAALVLSRIDRGEENAERRLHYDSNMIVEYSPAAE
+                     RYLPTGYMTVLEAAQASVQLSDNGTANLLLREVGGPPGVTRYFRDLNDLTTRLDRKEPE
+                     MSSNIPGDMRDTTTPTAMGKTVSHVLYGEALKPSSASLLKRWLIGNQTGDSTLRAGFPK
+                     DWVVGEKTGTCSNGGRNDIGFFAVDGREYVVAVYTTAPSFTPEGRNELVASTARVIKSH
+                     VAKAPY*"
+     attC            1044..1123
+                     /attC="attc_002"
+                     /model="attc_4"
+ORIGIN
+        1 tgcgaccacg ggtacgcgct aactggtcat tcaagccgag cccgcgaagt cccatttcca
+       61 ggcagatccg cggttcgatt tccatcagta tccggctcgc gcgttgcggg ccggcttaat
+      121 tccggtgtta gacgtacgcc cccacccccg tcgctaatcc aggagagaac agtgaaggcc
+      181 gccctgcctc tgcttttatt catcgtctgt caggctagcc ccgcaaaagg tcaagcggac
+      241 ctgtcgtctg acgtagccga actcgaaaag tcgcactcgg ccaagatcgg cgttgcactc
+      301 tttgacaaag atggccgctt cttaggaggc catcgcgcca acgagcgctt tgccatgtgc
+      361 tcgacgttca agctgccact cgcagcactc gtcctgagtc gtattgatcg cggcgaagag
+      421 aatgcggaac ggagactgca ctatgactca aacatgattg ttgagtattc acctgcagca
+      481 gagcgctacc tgccgacggg ctatatgacc gtacttgagg ccgctcaagc ttctgtgcag
+      541 cttagcgata acggaacggc caatctcttg ttgcgagagg taggcggccc gcccggggtg
+      601 acgcgatatt ttcgcgacct aaacgacctc actactcgac tggaccgcaa ggaacccgaa
+      661 atgagtagca acattcctgg cgatatgagg gacacaacca ctccaacggc catgggcaaa
+      721 acggtttccc atgttttgta cggtgaagcg ctcaagccgt catccgcgtc gctattaaaa
+      781 cggtggctca tcggcaacca aactggggac agcaccctta gggccgggtt cccaaaggat
+      841 tgggtggtcg gggagaaaac tggaacgtgc tccaatggcg gccgcaatga catcggcttc
+      901 ttcgctgtcg atggtagaga gtatgtggtc gccgtctata cgacagcgcc cagctttaca
+      961 ccggaagggc gcaacgaact tgtggcgtca actgcgcgcg tcatcaagtc gcacgtagcc
+     1021 aaggcgcctt actagccgcg tacgtctaac aattcgtcca agccgacgcg gtagttcctt
+     1081 cggttcagtg gacaccctga tctaacagtc aggagtgtct ttc
+//

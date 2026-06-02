@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "create_date": "2024-09-16 11:24:54",
+        "format_version": "1.1",
+        "locus": "/tmp/tmped038g31/class_B1_proteins"
+    },
+    "files": {
+        "aln_fasta": "class_B1_proteins_deduplicated_aligned.fasta",
+        "seq_info": "class_B1_proteins_seqinfo.csv",
+        "taxonomy": "class_B1_proteins_taxonomy.csv"
+    },
+    "md5": {
+        "aln_fasta": "e322914df6da57321627249ec892a623",
+        "seq_info": "0fbfa0a5261a95366cf890ef5d6bfb97",
+        "taxonomy": "17cdeb2ba71672a7cefb632222e0b834"
+    },
+    "log": [
+        "Stripped refpkg (removed 0 files)",
+        "Loaded initial files into empty refpkg"
+    ],
+    "rollback": null,
+    "rollforward": null
+}

@@ -1,0 +1,5 @@
+Protein	Counts	Abundance (copies/cell)	Best_taxonomy
+11395053_len_260_MetaAn_24	2	0.000212917621257743	root;d__Bacteria
+OXA-1023	1	0.00010564923792447	root;d__Bacteria
+SPA_MetaAn_24_l322_st2003_e2968_se-1_ID=9394_3	1	8.60239924895836e-05	root;d__Bacteria
+SPA_MetaAn_31_l284_st130_e981_se-1_ID=168381_1	1	9.74938581548614e-05	root;d__Bacteria

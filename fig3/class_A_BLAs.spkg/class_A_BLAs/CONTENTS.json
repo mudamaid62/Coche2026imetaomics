@@ -1,0 +1,1 @@
+{"graftm_package_version": 3, "align_hmm": "class_A_BLAs.hmm", "search_hmms": ["graftmkjr2tj2d_search.hmm"], "refpkg": "class_A_BLAs.gpkg.refpkg", "trusted_cutoff": false, "range": 456.90458015267177, "unaligned_sequence_database": "singlem_package_creatorjw03wxz4.fasta", "diamond_database": "singlem_package_creatorbe_v7dz2.dmnd"}

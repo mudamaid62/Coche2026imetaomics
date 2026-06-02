@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "create_date": "2024-09-16 11:29:45",
+        "format_version": "1.1",
+        "locus": "/tmp/tmp8kx3vf_1/class_D_proteins"
+    },
+    "files": {
+        "aln_fasta": "class_D_proteins_deduplicated_aligned.fasta",
+        "seq_info": "class_D_proteins_seqinfo.csv",
+        "taxonomy": "class_D_proteins_taxonomy.csv"
+    },
+    "md5": {
+        "aln_fasta": "e0a79cf8f3699ace2f25b4aacd1cf5e9",
+        "seq_info": "d99f96bf1121d529b093a142c3dc98f8",
+        "taxonomy": "3ffe77e416fb83eba1ca4fc2e1527d8e"
+    },
+    "log": [
+        "Stripped refpkg (removed 0 files)",
+        "Loaded initial files into empty refpkg"
+    ],
+    "rollback": null,
+    "rollforward": null
+}

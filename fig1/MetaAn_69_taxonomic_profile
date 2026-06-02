@@ -1,0 +1,1117 @@
+sample	coverage	taxonomy
+SRR24605835_filtp_woHU_1	9.11	Root; d__Archaea
+SRR24605835_filtp_woHU_1	55.9	Root; d__Bacteria
+SRR24605835_filtp_woHU_1	5.13	Root; d__Archaea; p__Thermoproteota
+SRR24605835_filtp_woHU_1	0.52	Root; d__Archaea; p__Thermoplasmatota
+SRR24605835_filtp_woHU_1	0.96	Root; d__Archaea; p__Halobacteriota
+SRR24605835_filtp_woHU_1	0.7	Root; d__Archaea; p__Asgardarchaeota
+SRR24605835_filtp_woHU_1	0.19	Root; d__Bacteria; p__Pseudomonadota
+SRR24605835_filtp_woHU_1	4.86	Root; d__Bacteria; p__Acidobacteriota
+SRR24605835_filtp_woHU_1	4.08	Root; d__Bacteria; p__Myxococcota
+SRR24605835_filtp_woHU_1	7.19	Root; d__Bacteria; p__Chloroflexota
+SRR24605835_filtp_woHU_1	1.04	Root; d__Bacteria; p__Nitrospirota
+SRR24605835_filtp_woHU_1	4.73	Root; d__Bacteria; p__Actinomycetota
+SRR24605835_filtp_woHU_1	2.54	Root; d__Bacteria; p__Bacteroidota
+SRR24605835_filtp_woHU_1	7.94	Root; d__Bacteria; p__Planctomycetota
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Bacillota_A
+SRR24605835_filtp_woHU_1	5.61	Root; d__Bacteria; p__Patescibacteria
+SRR24605835_filtp_woHU_1	1.28	Root; d__Bacteria; p__Verrucomicrobiota
+SRR24605835_filtp_woHU_1	0.8	Root; d__Bacteria; p__Elusimicrobiota
+SRR24605835_filtp_woHU_1	3.84	Root; d__Bacteria; p__Bdellovibrionota
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Omnitrophota
+SRR24605835_filtp_woHU_1	3.24	Root; d__Bacteria; p__Desulfobacterota
+SRR24605835_filtp_woHU_1	2.72	Root; d__Bacteria; p__Armatimonadota
+SRR24605835_filtp_woHU_1	0.91	Root; d__Bacteria; p__Spirochaetota
+SRR24605835_filtp_woHU_1	0.83	Root; d__Bacteria; p__Cyanobacteriota
+SRR24605835_filtp_woHU_1	0.34	Root; d__Bacteria; p__Eremiobacterota
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Fibrobacterota
+SRR24605835_filtp_woHU_1	0.06	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria
+SRR24605835_filtp_woHU_1	0.37	Root; d__Archaea; p__Thermoproteota; c__Thermoprotei
+SRR24605835_filtp_woHU_1	0.37	Root; d__Archaea; p__Thermoproteota; c__Bathyarchaeia
+SRR24605835_filtp_woHU_1	1.41	Root; d__Archaea; p__Thermoplasmatota; c__Thermoplasmata
+SRR24605835_filtp_woHU_1	1.89	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia
+SRR24605835_filtp_woHU_1	1.35	Root; d__Archaea; p__Micrarchaeota; c__Micrarchaeia
+SRR24605835_filtp_woHU_1	0.32	Root; d__Archaea; p__Halobacteriota; c__Archaeoglobi
+SRR24605835_filtp_woHU_1	31.99	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria
+SRR24605835_filtp_woHU_1	21.03	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria
+SRR24605835_filtp_woHU_1	0.12	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria
+SRR24605835_filtp_woHU_1	0.5	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia
+SRR24605835_filtp_woHU_1	1.07	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia
+SRR24605835_filtp_woHU_1	0.84	Root; d__Bacteria; p__Acidobacteriota; c__Polarisedimenticolia
+SRR24605835_filtp_woHU_1	1.66	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Acidobacteriota; c__Aminicenantia
+SRR24605835_filtp_woHU_1	0.34	Root; d__Bacteria; p__Acidobacteriota; c__UBA6911
+SRR24605835_filtp_woHU_1	2.61	Root; d__Bacteria; p__Myxococcota; c__Polyangia
+SRR24605835_filtp_woHU_1	0.56	Root; d__Bacteria; p__Chloroflexota; c__Dormibacteria
+SRR24605835_filtp_woHU_1	1.19	Root; d__Bacteria; p__Chloroflexota; c__Chloroflexia
+SRR24605835_filtp_woHU_1	6.94	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae
+SRR24605835_filtp_woHU_1	1.25	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria
+SRR24605835_filtp_woHU_1	5.94	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia
+SRR24605835_filtp_woHU_1	5.25	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia
+SRR24605835_filtp_woHU_1	1.79	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Nitrospirota; c__Thermodesulfovibrionia
+SRR24605835_filtp_woHU_1	1.8	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia
+SRR24605835_filtp_woHU_1	1.26	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia
+SRR24605835_filtp_woHU_1	6.11	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes
+SRR24605835_filtp_woHU_1	0.23	Root; d__Bacteria; p__Actinomycetota; c__Geothermincolia
+SRR24605835_filtp_woHU_1	4.27	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia
+SRR24605835_filtp_woHU_1	0.17	Root; d__Bacteria; p__Bacteroidota; c__Ignavibacteria
+SRR24605835_filtp_woHU_1	1.3	Root; d__Bacteria; p__Bacteroidota; c__Kapaibacteriia
+SRR24605835_filtp_woHU_1	0.38	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia
+SRR24605835_filtp_woHU_1	0.61	Root; d__Bacteria; p__Planctomycetota; c__UBA1135
+SRR24605835_filtp_woHU_1	2.41	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae
+SRR24605835_filtp_woHU_1	0.23	Root; d__Bacteria; p__Planctomycetota; c__MHYJ01
+SRR24605835_filtp_woHU_1	0.12	Root; d__Bacteria; p__Planctomycetota; c__J058
+SRR24605835_filtp_woHU_1	2.75	Root; d__Bacteria; p__Bacillota_A; c__Clostridia
+SRR24605835_filtp_woHU_1	4.39	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria
+SRR24605835_filtp_woHU_1	1.53	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia
+SRR24605835_filtp_woHU_1	5.84	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia
+SRR24605835_filtp_woHU_1	0.96	Root; d__Bacteria; p__Patescibacteria; c__Gracilibacteria
+SRR24605835_filtp_woHU_1	2.84	Root; d__Bacteria; p__Patescibacteria; c__ABY1
+SRR24605835_filtp_woHU_1	0.66	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes
+SRR24605835_filtp_woHU_1	0.34	Root; d__Bacteria; p__CLD3; c__CLD3
+SRR24605835_filtp_woHU_1	6.05	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Verrucomicrobiota; c__Kiritimatiellia
+SRR24605835_filtp_woHU_1	2.54	Root; d__Bacteria; p__Elusimicrobiota; c__Elusimicrobia
+SRR24605835_filtp_woHU_1	0.34	Root; d__Bacteria; p__Bdellovibrionota; c__UBA1018
+SRR24605835_filtp_woHU_1	0.37	Root; d__Bacteria; p__Bdellovibrionota; c__UBA2361
+SRR24605835_filtp_woHU_1	0.78	Root; d__Bacteria; p__Bdellovibrionota; c__Bdellovibrionia
+SRR24605835_filtp_woHU_1	1.43	Root; d__Bacteria; p__Omnitrophota; c__Koll11
+SRR24605835_filtp_woHU_1	0.63	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46
+SRR24605835_filtp_woHU_1	0.17	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia
+SRR24605835_filtp_woHU_1	0.03	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria
+SRR24605835_filtp_woHU_1	0.27	Root; d__Bacteria; p__Desulfobacterota; c__Desulfuromonadia
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Bacillota; c__Bacilli
+SRR24605835_filtp_woHU_1	0.69	Root; d__Bacteria; p__Spirochaetota; c__Spirochaetia
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Tectomicrobia; c__Entotheonellia
+SRR24605835_filtp_woHU_1	0.31	Root; d__Bacteria; p__Myxococcota_A; c__UBA9160
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Sumerlaeota; c__Sumerlaeia
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Cyanobacteriota; c__Vampirovibrionia
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Cyanobacteriota; c__Cyanobacteriia
+SRR24605835_filtp_woHU_1	1.24	Root; d__Bacteria; p__Bacillota_I; c__Bacilli_A
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Eremiobacterota; c__Eremiobacteria
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Fibrobacterota; c__Fibrobacteria
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Zixibacteria; c__MSB-5A5
+SRR24605835_filtp_woHU_1	0.35	Root; d__Bacteria; p__Krumholzibacteriota; c__Krumholzibacteria
+SRR24605835_filtp_woHU_1	1.3	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales
+SRR24605835_filtp_woHU_1	1.67	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia; o__Woesearchaeales
+SRR24605835_filtp_woHU_1	0.01	Root; d__Archaea; p__Micrarchaeota; c__Micrarchaeia; o__Micrarchaeales
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Micavibrionales
+SRR24605835_filtp_woHU_1	1.05	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Kiloniellales
+SRR24605835_filtp_woHU_1	2.36	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Caulobacterales
+SRR24605835_filtp_woHU_1	11.84	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhodospirillales
+SRR24605835_filtp_woHU_1	2.26	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rickettsiales
+SRR24605835_filtp_woHU_1	0.52	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Sphingomonadales
+SRR24605835_filtp_woHU_1	0.8	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhodospirillales_A
+SRR24605835_filtp_woHU_1	0.62	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__UBA9219
+SRR24605835_filtp_woHU_1	0.23	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Paracaedibacterales
+SRR24605835_filtp_woHU_1	18.95	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales
+SRR24605835_filtp_woHU_1	3.63	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Pseudomonadales
+SRR24605835_filtp_woHU_1	1.42	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Acidiferrobacterales
+SRR24605835_filtp_woHU_1	1.41	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Enterobacterales
+SRR24605835_filtp_woHU_1	0.96	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Xanthomonadales
+SRR24605835_filtp_woHU_1	7.78	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales
+SRR24605835_filtp_woHU_1	0.23	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Fen-336
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__UBA7656
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales
+SRR24605835_filtp_woHU_1	5.33	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales
+SRR24605835_filtp_woHU_1	0.07	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales
+SRR24605835_filtp_woHU_1	0.27	Root; d__Bacteria; p__Acidobacteriota; c__Polarisedimenticolia; o__Gp22-AA2
+SRR24605835_filtp_woHU_1	0.46	Root; d__Bacteria; p__Acidobacteriota; c__Polarisedimenticolia; o__Polarisedimenticolales
+SRR24605835_filtp_woHU_1	0.9	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__UBA5066
+SRR24605835_filtp_woHU_1	0.73	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Multivoradales
+SRR24605835_filtp_woHU_1	1.25	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Haliangiales
+SRR24605835_filtp_woHU_1	2.76	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales
+SRR24605835_filtp_woHU_1	0.29	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Palsa-1104
+SRR24605835_filtp_woHU_1	2.28	Root; d__Bacteria; p__Myxococcota; c__Myxococcia; o__Myxococcales
+SRR24605835_filtp_woHU_1	0.85	Root; d__Bacteria; p__Myxococcota; c__UBA727; o__UBA727
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales
+SRR24605835_filtp_woHU_1	1.05	Root; d__Bacteria; p__Chloroflexota; c__Chloroflexia; o__Chloroflexales
+SRR24605835_filtp_woHU_1	3.67	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales
+SRR24605835_filtp_woHU_1	0.52	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__UBA4142
+SRR24605835_filtp_woHU_1	1.71	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Aggregatilineales
+SRR24605835_filtp_woHU_1	0.23	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Epilineales
+SRR24605835_filtp_woHU_1	1.93	Root; d__Bacteria; p__Chloroflexota; c__UBA6077; o__UBA6077
+SRR24605835_filtp_woHU_1	1.24	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__DSTF01
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__SM23-28-2
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Chloroflexota; c__FW602-bin22; o__FW602-bin22
+SRR24605835_filtp_woHU_1	6.43	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__HRBIN30
+SRR24605835_filtp_woHU_1	0.11	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA9968
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales
+SRR24605835_filtp_woHU_1	6.54	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256
+SRR24605835_filtp_woHU_1	14.3	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales
+SRR24605835_filtp_woHU_1	1.8	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Solirubrobacterales
+SRR24605835_filtp_woHU_1	1.9	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales
+SRR24605835_filtp_woHU_1	4.78	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales
+SRR24605835_filtp_woHU_1	5.17	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Actinomycetales
+SRR24605835_filtp_woHU_1	0.46	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Streptomycetales
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Propionibacteriales
+SRR24605835_filtp_woHU_1	1.17	Root; d__Bacteria; p__Actinomycetota; c__UBA4738; o__UBA4738
+SRR24605835_filtp_woHU_1	2.99	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales
+SRR24605835_filtp_woHU_1	0.87	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__AKYH767-A
+SRR24605835_filtp_woHU_1	2.32	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Bacteroidales
+SRR24605835_filtp_woHU_1	1.49	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales
+SRR24605835_filtp_woHU_1	1.1	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales
+SRR24605835_filtp_woHU_1	0.39	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__NS11-12g
+SRR24605835_filtp_woHU_1	0.54	Root; d__Bacteria; p__Bacteroidota; c__Ignavibacteria; o__SJA-28
+SRR24605835_filtp_woHU_1	1.38	Root; d__Bacteria; p__Bacteroidota; c__UBA10030; o__UBA10030
+SRR24605835_filtp_woHU_1	1.76	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales
+SRR24605835_filtp_woHU_1	10.1	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales
+SRR24605835_filtp_woHU_1	0.61	Root; d__Bacteria; p__Planctomycetota; c__UBA1135; o__UBA1135
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Planctomycetota; c__JAJSAM01; o__JAKLKS01
+SRR24605835_filtp_woHU_1	1.36	Root; d__Bacteria; p__Planctomycetota; c__B15-G4; o__B15-G4
+SRR24605835_filtp_woHU_1	0.11	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales
+SRR24605835_filtp_woHU_1	1.93	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales
+SRR24605835_filtp_woHU_1	1.7	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__UBA1845
+SRR24605835_filtp_woHU_1	0.6	Root; d__Bacteria; p__Planctomycetota; c__UBA8108; o__UBA8108
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Planctomycetota; c__GCA-002687715; o__GCA-002687715
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Planctomycetota; c__PLA2; o__PLA2
+SRR24605835_filtp_woHU_1	0.23	Root; d__Bacteria; p__Planctomycetota; c__J058; o__J058
+SRR24605835_filtp_woHU_1	0.23	Root; d__Bacteria; p__Bacillota_A; c__Clostridia; o__Lachnospirales
+SRR24605835_filtp_woHU_1	0.56	Root; d__Bacteria; p__Bacillota_A; c__Clostridia; o__Christensenellales
+SRR24605835_filtp_woHU_1	8.97	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973
+SRR24605835_filtp_woHU_1	1.24	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA6257
+SRR24605835_filtp_woHU_1	0.18	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__2-02-FULL-40-12
+SRR24605835_filtp_woHU_1	0.11	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__Paceibacterales
+SRR24605835_filtp_woHU_1	8.73	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales
+SRR24605835_filtp_woHU_1	0.34	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__UBA4664
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__CAILAD01
+SRR24605835_filtp_woHU_1	0.11	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__UBA10105
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__GWA2-44-7
+SRR24605835_filtp_woHU_1	0.67	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__Levybacterales
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__UBA1406
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__UBA1400
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Patescibacteria; c__Andersenbacteria; o__UBA10190
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Patescibacteria; c__Doudnabacteria; o__UBA920
+SRR24605835_filtp_woHU_1	0.97	Root; d__Bacteria; p__Patescibacteria; c__ABY1; o__SG8-24
+SRR24605835_filtp_woHU_1	0.11	Root; d__Bacteria; p__Patescibacteria; c__ABY1; o__SBBC01
+SRR24605835_filtp_woHU_1	1.74	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales
+SRR24605835_filtp_woHU_1	0.62	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Longimicrobiales
+SRR24605835_filtp_woHU_1	19.36	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales
+SRR24605835_filtp_woHU_1	3.0	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales
+SRR24605835_filtp_woHU_1	0.43	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Methylacidiphilales
+SRR24605835_filtp_woHU_1	1.19	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Palsa-1439
+SRR24605835_filtp_woHU_1	0.3	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales
+SRR24605835_filtp_woHU_1	0.41	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__JABWAM01
+SRR24605835_filtp_woHU_1	1.33	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Verrucomicrobiales
+SRR24605835_filtp_woHU_1	0.58	Root; d__Bacteria; p__Elusimicrobiota; c__Elusimicrobia; o__UBA1565
+SRR24605835_filtp_woHU_1	0.11	Root; d__Bacteria; p__Elusimicrobiota; c__Elusimicrobia; o__2-01-FULL-59-12
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Bdellovibrionota; c__UBA1018; o__UBA1018
+SRR24605835_filtp_woHU_1	1.39	Root; d__Bacteria; p__Bdellovibrionota; c__UBA2361; o__UBA2361
+SRR24605835_filtp_woHU_1	1.22	Root; d__Bacteria; p__Bdellovibrionota; c__Bdellovibrionia; o__Bdellovibrionales
+SRR24605835_filtp_woHU_1	0.23	Root; d__Bacteria; p__Bdellovibrionota; c__FAC87; o__UBA2466
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Omnitrophota; c__Koll11; o__Zapsychrales
+SRR24605835_filtp_woHU_1	0.29	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46
+SRR24605835_filtp_woHU_1	3.94	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales
+SRR24605835_filtp_woHU_1	0.35	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobacteria; o__Desulfobacterales
+SRR24605835_filtp_woHU_1	0.73	Root; d__Bacteria; p__Desulfobacterota; c__Desulfuromonadia; o__Geobacterales
+SRR24605835_filtp_woHU_1	0.43	Root; d__Bacteria; p__Desulfobacterota; c__Desulfobulbia; o__Desulfobulbales
+SRR24605835_filtp_woHU_1	0.33	Root; d__Bacteria; p__Armatimonadota; c__Chthonomonadetes; o__Chthonomonadales
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Armatimonadota; c__Fimbriimonadia; o__Fimbriimonadales
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Armatimonadota; c__Armatimonadia; o__Armatimonadales
+SRR24605835_filtp_woHU_1	0.39	Root; d__Bacteria; p__Armatimonadota; c__SYMT01; o__SYMT01
+SRR24605835_filtp_woHU_1	2.31	Root; d__Bacteria; p__Myxococcota_A; c__UBA9160; o__UBA9160
+SRR24605835_filtp_woHU_1	3.07	Root; d__Bacteria; p__Dependentiae; c__Babeliae; o__Babeliales
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__CSP1-3; c__CSP1-3; o__CSP1-3
+SRR24605835_filtp_woHU_1	1.03	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrosopumilaceae
+SRR24605835_filtp_woHU_1	0.6	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__UBA183
+SRR24605835_filtp_woHU_1	0.16	Root; d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__UBA184; f__UBA184
+SRR24605835_filtp_woHU_1	0.52	Root; d__Archaea; p__Nanoarchaeota; c__Nanoarchaeia; o__Pacearchaeales; f__GW2011-AR1
+SRR24605835_filtp_woHU_1	0.47	Root; d__Archaea; p__Micrarchaeota; c__Micrarchaeia; o__Micrarchaeales; f__Micrarchaeaceae
+SRR24605835_filtp_woHU_1	0.33	Root; d__Archaea; p__Micrarchaeota; c__Micrarchaeia; o__Micrarchaeales; f__CABMGC01
+SRR24605835_filtp_woHU_1	1.5	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Azospirillales; f__Azospirillaceae
+SRR24605835_filtp_woHU_1	2.69	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Caulobacterales; f__TH1-2
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Caulobacterales; f__Hyphomonadaceae
+SRR24605835_filtp_woHU_1	38.56	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae
+SRR24605835_filtp_woHU_1	7.25	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae
+SRR24605835_filtp_woHU_1	8.67	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Aestuariivirgaceae
+SRR24605835_filtp_woHU_1	0.29	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Methyloligellaceae
+SRR24605835_filtp_woHU_1	3.24	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Kaistiaceae
+SRR24605835_filtp_woHU_1	0.73	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Devosiaceae
+SRR24605835_filtp_woHU_1	1.68	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Pleomorphomonadaceae
+SRR24605835_filtp_woHU_1	2.93	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__ATCC43930; f__Stellaceae
+SRR24605835_filtp_woHU_1	1.2	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Micropepsales; f__Micropepsaceae
+SRR24605835_filtp_woHU_1	0.99	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhodospirillales; f__Magnetospirillaceae
+SRR24605835_filtp_woHU_1	1.77	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae
+SRR24605835_filtp_woHU_1	0.66	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Reyranellales; f__Reyranellaceae
+SRR24605835_filtp_woHU_1	0.52	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__UBA9655; f__UBA9655
+SRR24605835_filtp_woHU_1	1.47	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rickettsiales; f__SXRF01
+SRR24605835_filtp_woHU_1	5.36	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Acetobacterales; f__Acetobacteraceae
+SRR24605835_filtp_woHU_1	5.64	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae
+SRR24605835_filtp_woHU_1	5.84	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Dongiales; f__Dongiaceae
+SRR24605835_filtp_woHU_1	1.69	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Geminicoccales; f__Geminicoccaceae
+SRR24605835_filtp_woHU_1	1.83	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__UBA9219; f__UBA9219
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__CACIAM-22H2; f__CACIAM-22H2
+SRR24605835_filtp_woHU_1	35.61	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae
+SRR24605835_filtp_woHU_1	5.68	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae
+SRR24605835_filtp_woHU_1	4.36	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Casimicrobiaceae
+SRR24605835_filtp_woHU_1	14.35	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-39
+SRR24605835_filtp_woHU_1	2.94	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Usitatibacteraceae
+SRR24605835_filtp_woHU_1	1.32	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Thiobacillaceae
+SRR24605835_filtp_woHU_1	3.26	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-41
+SRR24605835_filtp_woHU_1	0.83	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Gallionellaceae
+SRR24605835_filtp_woHU_1	2.4	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Methylophilaceae
+SRR24605835_filtp_woHU_1	0.33	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Nitrosomonadaceae
+SRR24605835_filtp_woHU_1	12.15	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae
+SRR24605835_filtp_woHU_1	3.33	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Pseudomonadales; f__Azotimanducaceae_A
+SRR24605835_filtp_woHU_1	0.18	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae
+SRR24605835_filtp_woHU_1	0.28	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__UBA6186; f__UBA6186
+SRR24605835_filtp_woHU_1	2.41	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Acidiferrobacterales; f__Sulfurifustaceae
+SRR24605835_filtp_woHU_1	0.42	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Rariloculales; f__Rariloculaceae
+SRR24605835_filtp_woHU_1	0.91	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Legionellales; f__Legionellaceae
+SRR24605835_filtp_woHU_1	2.21	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae
+SRR24605835_filtp_woHU_1	1.65	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Xanthomonadales; f__Rhodanobacteraceae
+SRR24605835_filtp_woHU_1	1.05	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__GCA-2729495; f__GCA-2729495
+SRR24605835_filtp_woHU_1	3.51	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__DSM-16500; f__DSM-16500
+SRR24605835_filtp_woHU_1	0.44	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Ga0077536; f__Ga0077536
+SRR24605835_filtp_woHU_1	13.72	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999
+SRR24605835_filtp_woHU_1	6.69	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__SCN-69-37
+SRR24605835_filtp_woHU_1	2.33	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__2-12-FULL-66-21
+SRR24605835_filtp_woHU_1	7.06	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Fen-336; f__Fen-336
+SRR24605835_filtp_woHU_1	4.54	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae
+SRR24605835_filtp_woHU_1	3.65	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__UBA7656; f__UBA7656
+SRR24605835_filtp_woHU_1	0.34	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__RBC074; f__RBC074
+SRR24605835_filtp_woHU_1	23.68	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae
+SRR24605835_filtp_woHU_1	20.58	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1
+SRR24605835_filtp_woHU_1	0.22	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__Koribacteraceae
+SRR24605835_filtp_woHU_1	3.19	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__Acidobacteriaceae
+SRR24605835_filtp_woHU_1	6.43	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales; f__UBA7541
+SRR24605835_filtp_woHU_1	1.46	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__20CM-2-55-15; f__20CM-2-55-15
+SRR24605835_filtp_woHU_1	1.54	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__UBA7540; f__UBA7540
+SRR24605835_filtp_woHU_1	2.3	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__2-12-FULL-54-10; f__2-12-FULL-54-10
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Versatilivoradales; f__Versatilivoraceae
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Acidobacteriota; c__Polarisedimenticolia; o__Gp22-AA2; f__Gp22-AA2
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Acidobacteriota; c__Polarisedimenticolia; o__Polarisedimenticolales; f__JAIQFR01
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Acidobacteriota; c__Polarisedimenticolia; o__Polarisedimenticolales; f__Polarisedimenticolaceae
+SRR24605835_filtp_woHU_1	2.25	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__UBA5066; f__UBA5066
+SRR24605835_filtp_woHU_1	3.25	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Gp7-AA8; f__Gp7-AA8
+SRR24605835_filtp_woHU_1	1.82	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Multivoradales; f__UBA5704
+SRR24605835_filtp_woHU_1	0.93	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Haliangiales; f__Haliangiaceae
+SRR24605835_filtp_woHU_1	14.73	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__Polyangiaceae
+SRR24605835_filtp_woHU_1	1.14	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__JADJMO01
+SRR24605835_filtp_woHU_1	0.63	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__JAFGIB01
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__Sandaracinaceae
+SRR24605835_filtp_woHU_1	0.42	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Palsa-1104; f__JAEUJZ01
+SRR24605835_filtp_woHU_1	2.76	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Palsa-1104; f__Palsa-1104
+SRR24605835_filtp_woHU_1	2.42	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Fen-1088; f__Fen-1088
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Myxococcota; c__Myxococcia; o__Myxococcales; f__JAKAPL01
+SRR24605835_filtp_woHU_1	2.73	Root; d__Bacteria; p__Myxococcota; c__Myxococcia; o__Myxococcales; f__Myxococcaceae
+SRR24605835_filtp_woHU_1	11.63	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__JADMIN01
+SRR24605835_filtp_woHU_1	3.92	Root; d__Bacteria; p__Chloroflexota; c__Dormibacteria; o__Dormibacterales; f__Dormibacteraceae
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Chloroflexota; c__Dormibacteria; o__CF-121; f__CF-121
+SRR24605835_filtp_woHU_1	2.32	Root; d__Bacteria; p__Chloroflexota; c__Chloroflexia; o__Chloroflexales; f__Roseiflexaceae
+SRR24605835_filtp_woHU_1	0.23	Root; d__Bacteria; p__Chloroflexota; c__Chloroflexia; o__QHBQ01; f__JADMIH01
+SRR24605835_filtp_woHU_1	2.59	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6663
+SRR24605835_filtp_woHU_1	2.87	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__Villigracilaceae
+SRR24605835_filtp_woHU_1	1.59	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Aggregatilineales; f__Phototrophicaceae
+SRR24605835_filtp_woHU_1	1.74	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Aggregatilineales; f__UBA2796
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Caldilineales; f__Caldilineaceae
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__J036; f__Brachytrichaceae
+SRR24605835_filtp_woHU_1	0.28	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__JACRMK01; f__JACRMK01
+SRR24605835_filtp_woHU_1	0.86	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Epilineales; f__Epilineaceae
+SRR24605835_filtp_woHU_1	12.03	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4
+SRR24605835_filtp_woHU_1	0.38	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__QHBO01; f__QHBO01
+SRR24605835_filtp_woHU_1	1.36	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__P2-11E; f__P2-11E
+SRR24605835_filtp_woHU_1	1.09	Root; d__Bacteria; p__Chloroflexota; c__UBA6077; o__UBA6077; f__SHYK01
+SRR24605835_filtp_woHU_1	0.9	Root; d__Bacteria; p__Chloroflexota; c__UBA6077; o__UBA6077; f__CF-72
+SRR24605835_filtp_woHU_1	2.69	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__DSTF01; f__JACRBR01
+SRR24605835_filtp_woHU_1	1.52	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__UBA2979; f__UBA2979
+SRR24605835_filtp_woHU_1	1.62	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__Tepidiformales; f__Tepidiformaceae
+SRR24605835_filtp_woHU_1	1.04	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__SM23-28-2; f__RBG-16-64-32
+SRR24605835_filtp_woHU_1	0.06	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__CAUJGQ01; f__CAUJGQ01
+SRR24605835_filtp_woHU_1	1.02	Root; d__Bacteria; p__Chloroflexota; c__FW602-bin22; o__FW602-bin22; f__CADDYW01
+SRR24605835_filtp_woHU_1	6.03	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__Binatales; f__Binataceae
+SRR24605835_filtp_woHU_1	1.95	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__HRBIN30; f__JAGDMS01
+SRR24605835_filtp_woHU_1	0.96	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__HRBIN30; f__CADEER01
+SRR24605835_filtp_woHU_1	2.59	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA9968; f__UBA9968
+SRR24605835_filtp_woHU_1	2.01	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__DP-6; f__DP-6
+SRR24605835_filtp_woHU_1	0.77	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UTPRO1; f__UTPRO1
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__Bin18; f__Bin18
+SRR24605835_filtp_woHU_1	1.13	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA12015; f__UBA12015
+SRR24605835_filtp_woHU_1	1.14	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae
+SRR24605835_filtp_woHU_1	2.22	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales; f__NS-4
+SRR24605835_filtp_woHU_1	1.28	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__IMCC26256
+SRR24605835_filtp_woHU_1	3.65	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__PALSA-610
+SRR24605835_filtp_woHU_1	2.67	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__PALSA-555
+SRR24605835_filtp_woHU_1	1.35	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__JACDBD01
+SRR24605835_filtp_woHU_1	2.82	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__UBA8139
+SRR24605835_filtp_woHU_1	12.46	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae
+SRR24605835_filtp_woHU_1	0.49	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__AC-14
+SRR24605835_filtp_woHU_1	1.16	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__Microtrichaceae
+SRR24605835_filtp_woHU_1	0.46	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__UBA8190
+SRR24605835_filtp_woHU_1	1.2	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__Iamiaceae
+SRR24605835_filtp_woHU_1	0.99	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__CADCSY01
+SRR24605835_filtp_woHU_1	0.6	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__Aldehydirespiratoraceae
+SRR24605835_filtp_woHU_1	5.73	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae
+SRR24605835_filtp_woHU_1	1.75	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Solirubrobacterales; f__70-9
+SRR24605835_filtp_woHU_1	0.47	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Solirubrobacterales; f__Thermoleophilaceae
+SRR24605835_filtp_woHU_1	8.73	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae
+SRR24605835_filtp_woHU_1	0.38	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__JAICJC01
+SRR24605835_filtp_woHU_1	1.3	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__F1-60-MAGs149
+SRR24605835_filtp_woHU_1	1.1	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Miltoncostaeales; f__Miltoncostaeaceae
+SRR24605835_filtp_woHU_1	2.52	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Pseudonocardiaceae
+SRR24605835_filtp_woHU_1	0.76	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Mycobacteriaceae
+SRR24605835_filtp_woHU_1	3.42	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Micromonosporaceae
+SRR24605835_filtp_woHU_1	0.77	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Geodermatophilaceae
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Jatrophihabitantaceae
+SRR24605835_filtp_woHU_1	3.0	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Actinomycetales; f__Microbacteriaceae
+SRR24605835_filtp_woHU_1	2.12	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Actinomycetales; f__Dermatophilaceae
+SRR24605835_filtp_woHU_1	1.05	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Actinomycetales; f__Kineosporiaceae
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Actinomycetales; f__Cellulomonadaceae
+SRR24605835_filtp_woHU_1	5.71	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Streptosporangiales; f__Streptosporangiaceae
+SRR24605835_filtp_woHU_1	0.5	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Streptomycetales; f__Streptomycetaceae
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Propionibacteriales; f__Nocardioidaceae
+SRR24605835_filtp_woHU_1	0.31	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Prado026; f__Prado026
+SRR24605835_filtp_woHU_1	3.57	Root; d__Bacteria; p__Actinomycetota; c__UBA4738; o__UBA4738; f__HRBIN12
+SRR24605835_filtp_woHU_1	0.78	Root; d__Bacteria; p__Actinomycetota; c__UBA4738; o__UBA4738; f__UBA4738
+SRR24605835_filtp_woHU_1	2.18	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__UBA10324
+SRR24605835_filtp_woHU_1	19.83	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae
+SRR24605835_filtp_woHU_1	0.95	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae
+SRR24605835_filtp_woHU_1	2.58	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__AKYH767-A; f__2013-40CM-41-45
+SRR24605835_filtp_woHU_1	2.51	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__AKYH767-A; f__OLB10
+SRR24605835_filtp_woHU_1	1.41	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae
+SRR24605835_filtp_woHU_1	0.49	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__B-17B0; f__B-17BO
+SRR24605835_filtp_woHU_1	0.61	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Sphingobacteriales; f__Sphingobacteriaceae
+SRR24605835_filtp_woHU_1	0.77	Root; d__Bacteria; p__Bacteroidota; c__Ignavibacteria; o__SJA-28; f__OLB5
+SRR24605835_filtp_woHU_1	1.25	Root; d__Bacteria; p__Bacteroidota; c__Ignavibacteria; o__SJA-28; f__B-1AR
+SRR24605835_filtp_woHU_1	1.89	Root; d__Bacteria; p__Bacteroidota; c__UBA10030; o__UBA10030; f__SZUA-254
+SRR24605835_filtp_woHU_1	2.42	Root; d__Bacteria; p__Bacteroidota; c__UBA10030; o__UBA10030; f__UBA6906
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Bacteroidota; c__Kapaibacteriia; o__Palsa-1295; f__Palsa-1295
+SRR24605835_filtp_woHU_1	22.48	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6
+SRR24605835_filtp_woHU_1	1.38	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__PALSA-1355
+SRR24605835_filtp_woHU_1	1.27	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__Lacipirellulaceae
+SRR24605835_filtp_woHU_1	4.43	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__Pirellulaceae
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__PNKZ01
+SRR24605835_filtp_woHU_1	1.6	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__Thermoguttaceae
+SRR24605835_filtp_woHU_1	0.48	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__UBA1268
+SRR24605835_filtp_woHU_1	0.72	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__JAICIG01
+SRR24605835_filtp_woHU_1	0.83	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__JAEUIK01
+SRR24605835_filtp_woHU_1	0.55	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__UBA7805
+SRR24605835_filtp_woHU_1	21.68	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae
+SRR24605835_filtp_woHU_1	0.27	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__HRBIN36
+SRR24605835_filtp_woHU_1	4.88	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Planctomycetales; f__Planctomycetaceae
+SRR24605835_filtp_woHU_1	3.03	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Isosphaerales; f__Isosphaeraceae
+SRR24605835_filtp_woHU_1	2.43	Root; d__Bacteria; p__Planctomycetota; c__UBA1135; o__UBA2386; f__UBA2386
+SRR24605835_filtp_woHU_1	6.34	Root; d__Bacteria; p__Planctomycetota; c__UBA1135; o__UBA1135; f__GCA-002686595
+SRR24605835_filtp_woHU_1	1.64	Root; d__Bacteria; p__Planctomycetota; c__JAJSAM01; o__JAKLKS01; f__JAJVHW01
+SRR24605835_filtp_woHU_1	0.05	Root; d__Bacteria; p__Planctomycetota; c__B15-G4; o__B15-G4; f__SIAN01
+SRR24605835_filtp_woHU_1	1.34	Root; d__Bacteria; p__Planctomycetota; c__B15-G4; o__B15-G4; f__B15-G4
+SRR24605835_filtp_woHU_1	1.33	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__WQYP01; f__WQYP01
+SRR24605835_filtp_woHU_1	12.2	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae
+SRR24605835_filtp_woHU_1	7.6	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__UBA1924
+SRR24605835_filtp_woHU_1	1.69	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__SM1A02
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__Phycisphaeraceae
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__UBA1845; f__Fen-1342
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__UBA1845; f__PWPN01
+SRR24605835_filtp_woHU_1	1.07	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__UBA1845; f__UTPLA1
+SRR24605835_filtp_woHU_1	1.53	Root; d__Bacteria; p__Planctomycetota; c__SZUA-567; o__H5-PLA8; f__H5-PLA8
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Planctomycetota; c__UBA8108; o__UBA8108; f__SXIK01
+SRR24605835_filtp_woHU_1	1.08	Root; d__Bacteria; p__Planctomycetota; c__PLA2; o__PLA2; f__JAEUHO01
+SRR24605835_filtp_woHU_1	0.28	Root; d__Bacteria; p__Planctomycetota; c__MHYJ01; o__MHYJ01; f__JACPRB01
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Bacillota_A; c__Clostridia; o__Lachnospirales; f__Lachnospiraceae
+SRR24605835_filtp_woHU_1	0.21	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__PALSA-1337
+SRR24605835_filtp_woHU_1	0.85	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__UBA2103
+SRR24605835_filtp_woHU_1	0.95	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__SBAW01
+SRR24605835_filtp_woHU_1	1.69	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__UBA9973
+SRR24605835_filtp_woHU_1	2.32	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__Zambryskibacteraceae
+SRR24605835_filtp_woHU_1	2.27	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA6257; f__2-01-FULL-56-20
+SRR24605835_filtp_woHU_1	1.09	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__2-02-FULL-40-12; f__GWA2-44-9
+SRR24605835_filtp_woHU_1	0.96	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__Paceibacterales; f__Staskawiczbacteraceae
+SRR24605835_filtp_woHU_1	10.02	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA4665
+SRR24605835_filtp_woHU_1	2.53	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA10212
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__AQU-01
+SRR24605835_filtp_woHU_1	0.65	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__OMJO01
+SRR24605835_filtp_woHU_1	0.56	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__AWTP1-31
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__JAUPVS01
+SRR24605835_filtp_woHU_1	1.67	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__UBA4664; f__UBA4664
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__UBA10105; f__UBA927
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__GWA2-44-7; f__Amesbacteraceae
+SRR24605835_filtp_woHU_1	1.44	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__GWA2-44-7; f__UBA8517
+SRR24605835_filtp_woHU_1	6.79	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__Levybacterales; f__UBA12049
+SRR24605835_filtp_woHU_1	1.02	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__Levybacterales; f__GWA1-39-11
+SRR24605835_filtp_woHU_1	1.92	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__Daviesbacterales; f__UBA10151
+SRR24605835_filtp_woHU_1	0.62	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__UBA1400; f__PJMF01
+SRR24605835_filtp_woHU_1	2.09	Root; d__Bacteria; p__Patescibacteria; c__Gracilibacteria; o__Peribacterales; f__Peribacteraceae
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Patescibacteria; c__Gracilibacteria; o__UBA1369; f__UBA1369
+SRR24605835_filtp_woHU_1	2.88	Root; d__Bacteria; p__Patescibacteria; c__Doudnabacteria; o__UBA920; f__UBA920
+SRR24605835_filtp_woHU_1	1.19	Root; d__Bacteria; p__Patescibacteria; c__Doudnabacteria; o__UBA920; f__O2-02-FULL-48-8
+SRR24605835_filtp_woHU_1	0.11	Root; d__Bacteria; p__Patescibacteria; c__ABY1; o__SBBC01; f__CAIJZX01
+SRR24605835_filtp_woHU_1	14.7	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9
+SRR24605835_filtp_woHU_1	13.88	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae
+SRR24605835_filtp_woHU_1	0.47	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__JACORV01
+SRR24605835_filtp_woHU_1	4.39	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA11358
+SRR24605835_filtp_woHU_1	3.77	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA8199
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__Palsa-1400
+SRR24605835_filtp_woHU_1	1.14	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA9464
+SRR24605835_filtp_woHU_1	1.32	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__Pedosphaeraceae
+SRR24605835_filtp_woHU_1	0.55	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__SIBE01
+SRR24605835_filtp_woHU_1	5.76	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__UBA10450
+SRR24605835_filtp_woHU_1	2.98	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__Chthoniobacteraceae
+SRR24605835_filtp_woHU_1	0.24	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__SZAS-18
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Methylacidiphilales; f__UBA1321
+SRR24605835_filtp_woHU_1	4.58	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Palsa-1439; f__Palsa-1439
+SRR24605835_filtp_woHU_1	4.3	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales; f__Opitutaceae
+SRR24605835_filtp_woHU_1	0.41	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__JABWAM01; f__JABWAM01
+SRR24605835_filtp_woHU_1	1.57	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae
+SRR24605835_filtp_woHU_1	0.63	Root; d__Bacteria; p__Elusimicrobiota; c__Elusimicrobia; o__F11; f__F11
+SRR24605835_filtp_woHU_1	0.69	Root; d__Bacteria; p__Elusimicrobiota; c__Elusimicrobia; o__UBA1565; f__UBA9628
+SRR24605835_filtp_woHU_1	0.66	Root; d__Bacteria; p__Elusimicrobiota; c__Elusimicrobia; o__2-02-FULL-39-32; f__2-02-FULL-39-32
+SRR24605835_filtp_woHU_1	2.09	Root; d__Bacteria; p__Bdellovibrionota; c__UBA1018; o__UBA1018; f__UBA1018
+SRR24605835_filtp_woHU_1	1.56	Root; d__Bacteria; p__Bdellovibrionota; c__Bdellovibrionia; o__Bdellovibrionales; f__UBA1609
+SRR24605835_filtp_woHU_1	1.48	Root; d__Bacteria; p__Bdellovibrionota; c__FAC87; o__UBA2466; f__UBA2466
+SRR24605835_filtp_woHU_1	1.13	Root; d__Bacteria; p__Omnitrophota; c__Koll11; o__Zapsychrales; f__Fredricksoniimonadaceae
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Omnitrophota; c__Koll11; o__2-02-FULL-51-18; f__2-02-FULL-51-18
+SRR24605835_filtp_woHU_1	6.75	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46; f__RBG-16-71-46
+SRR24605835_filtp_woHU_1	1.1	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__SZUA-252; f__SZUA-252
+SRR24605835_filtp_woHU_1	3.75	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales; f__Rhabdochlamydiaceae
+SRR24605835_filtp_woHU_1	1.83	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales; f__FEN-1388
+SRR24605835_filtp_woHU_1	4.35	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales; f__Parachlamydiaceae
+SRR24605835_filtp_woHU_1	2.92	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales; f__SM23-39
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales; f__JAAKFR01
+SRR24605835_filtp_woHU_1	0.52	Root; d__Bacteria; p__Desulfobacterota; c__Desulfuromonadia; o__Geobacterales; f__Pseudopelobacteraceae
+SRR24605835_filtp_woHU_1	1.23	Root; d__Bacteria; p__Armatimonadota; c__Chthonomonadetes; o__Chthonomonadales; f__Chthonomonadaceae
+SRR24605835_filtp_woHU_1	1.2	Root; d__Bacteria; p__Armatimonadota; c__Chthonomonadetes; o__Chthonomonadales; f__CAJBBX01
+SRR24605835_filtp_woHU_1	2.51	Root; d__Bacteria; p__Armatimonadota; c__Fimbriimonadia; o__Fimbriimonadales; f__Fimbriimonadaceae
+SRR24605835_filtp_woHU_1	1.73	Root; d__Bacteria; p__Tectomicrobia; c__Entotheonellia; o__Entotheonellales; f__Entotheonellaceae
+SRR24605835_filtp_woHU_1	2.5	Root; d__Bacteria; p__Myxococcota_A; c__UBA9160; o__SZUA-336; f__SZUA-336
+SRR24605835_filtp_woHU_1	0.19	Root; d__Bacteria; p__Myxococcota_A; c__UBA9160; o__UBA9160; f__PR03
+SRR24605835_filtp_woHU_1	1.02	Root; d__Bacteria; p__Cyanobacteriota; c__Vampirovibrionia; o__Obscuribacterales; f__Obscuribacteraceae
+SRR24605835_filtp_woHU_1	4.27	Root; d__Bacteria; p__Dependentiae; c__Babeliae; o__Babeliales; f__Vermiphilaceae
+SRR24605835_filtp_woHU_1	1.03	Root; d__Bacteria; p__Dependentiae; c__Babeliae; o__Babeliales; f__Babeliaceae
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Eremiobacterota; c__Eremiobacteria; o__Eremiobacterales; f__Eremiobacteraceae
+SRR24605835_filtp_woHU_1	0.28	Root; d__Bacteria; p__Fibrobacterota; c__Fibrobacteria; o__UBA11236; f__UBA11236
+SRR24605835_filtp_woHU_1	0.46	Root; d__Bacteria; p__FCPU426; c__Palsa-1180; o__Palsa-1180; f__Palsa-1180
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__CSP1-3; c__CSP1-3; o__CSP1-3; f__CSP1-3
+SRR24605835_filtp_woHU_1	10.58	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrosopumilaceae; g__TA-20
+SRR24605835_filtp_woHU_1	0.98	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrosopumilaceae; g__Nitrosotalea
+SRR24605835_filtp_woHU_1	0.98	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__UBA183; g__BOG-1369
+SRR24605835_filtp_woHU_1	4.23	Root; d__Archaea; p__Thermoplasmatota; c__Thermoplasmata; o__UBA184; f__UBA184; g__UBA184
+SRR24605835_filtp_woHU_1	0.64	Root; d__Archaea; p__Micrarchaeota; c__Micrarchaeia; o__Micrarchaeales; f__CABMGC01; g__JAGWGI01
+SRR24605835_filtp_woHU_1	5.74	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Phenylobacterium
+SRR24605835_filtp_woHU_1	0.97	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Caulobacter
+SRR24605835_filtp_woHU_1	2.34	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Palsa-881
+SRR24605835_filtp_woHU_1	5.3	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Caulobacterales; f__TH1-2; g__Vitreimonas
+SRR24605835_filtp_woHU_1	3.14	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__Rhodoplanes
+SRR24605835_filtp_woHU_1	74.31	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__Bradyrhizobium
+SRR24605835_filtp_woHU_1	3.67	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__PALSA-894
+SRR24605835_filtp_woHU_1	21.63	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__PNAI01
+SRR24605835_filtp_woHU_1	0.58	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__Rhodopseudomonas
+SRR24605835_filtp_woHU_1	14.31	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__Pseudolabrys
+SRR24605835_filtp_woHU_1	1.57	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__JAJPKK01
+SRR24605835_filtp_woHU_1	11.44	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__VAZQ01
+SRR24605835_filtp_woHU_1	6.12	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__BOG-931
+SRR24605835_filtp_woHU_1	4.91	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__WHTP01
+SRR24605835_filtp_woHU_1	13.27	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__Z2-YC6860
+SRR24605835_filtp_woHU_1	2.9	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__Afipia
+SRR24605835_filtp_woHU_1	0.93	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__62-47
+SRR24605835_filtp_woHU_1	0.69	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__Nitrobacter
+SRR24605835_filtp_woHU_1	3.21	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__Pseudorhodoplanes
+SRR24605835_filtp_woHU_1	1.05	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__FEB-22
+SRR24605835_filtp_woHU_1	2.99	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__Palsa-892
+SRR24605835_filtp_woHU_1	0.46	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__P52-10
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__JAVDCA01
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__CANJBX01
+SRR24605835_filtp_woHU_1	0.52	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__JABFRJ01
+SRR24605835_filtp_woHU_1	18.39	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__AWTP1-13
+SRR24605835_filtp_woHU_1	3.81	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Hyphomicrobium_A
+SRR24605835_filtp_woHU_1	1.35	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Hyphomicrobium_B
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__Ga0077530
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__Microvirga
+SRR24605835_filtp_woHU_1	3.97	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__Methylocella
+SRR24605835_filtp_woHU_1	0.5	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__28-YEA-48
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__Roseiarcus
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__Rhodoblastus
+SRR24605835_filtp_woHU_1	12.51	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Aestuariivirgaceae; g__Aestuariivirga
+SRR24605835_filtp_woHU_1	12.3	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Methyloligellaceae; g__Methyloceanibacter
+SRR24605835_filtp_woHU_1	0.38	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Kaistiaceae; g__CAMCWB01
+SRR24605835_filtp_woHU_1	1.23	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Kaistiaceae; g__Bauldia
+SRR24605835_filtp_woHU_1	10.98	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__ATCC43930; f__Stellaceae; g__AP-15
+SRR24605835_filtp_woHU_1	2.35	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__ATCC43930; f__Stellaceae; g__URHD0088
+SRR24605835_filtp_woHU_1	4.35	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Micropepsales; f__Micropepsaceae; g__SZUA-430
+SRR24605835_filtp_woHU_1	19.11	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Micropepsales; f__Micropepsaceae; g__Rhizomicrobium
+SRR24605835_filtp_woHU_1	3.47	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Micropepsales; f__Micropepsaceae; g__CAIYRG01
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae; g__SCTM01
+SRR24605835_filtp_woHU_1	11.13	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Reyranellales; f__Reyranellaceae; g__Reyranella
+SRR24605835_filtp_woHU_1	2.75	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Acetobacterales; f__Acetobacteraceae; g__Rhodopila
+SRR24605835_filtp_woHU_1	1.15	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas
+SRR24605835_filtp_woHU_1	1.35	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Novosphingobium
+SRR24605835_filtp_woHU_1	0.6	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Dongiales; f__Dongiaceae; g__JAUYVI01
+SRR24605835_filtp_woHU_1	1.49	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Dongiales; f__Dongiaceae; g__Hypericibacter
+SRR24605835_filtp_woHU_1	0.99	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Dongiales; f__Dongiaceae; g__SYSU-D60014
+SRR24605835_filtp_woHU_1	0.67	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Dongiales; f__Dongiaceae; g__CADEFF01
+SRR24605835_filtp_woHU_1	1.76	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Paracaedibacterales; f__VGCI01; g__VGCI01
+SRR24605835_filtp_woHU_1	2.56	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__JAEUPI01
+SRR24605835_filtp_woHU_1	5.55	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Rubrivivax
+SRR24605835_filtp_woHU_1	2.62	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Aquabacterium_A
+SRR24605835_filtp_woHU_1	7.11	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Schlegelella_A
+SRR24605835_filtp_woHU_1	7.26	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__LMDS01
+SRR24605835_filtp_woHU_1	0.47	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Rhodoferax
+SRR24605835_filtp_woHU_1	2.56	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Rhizobacter
+SRR24605835_filtp_woHU_1	1.02	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Piscinibacter
+SRR24605835_filtp_woHU_1	2.17	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Ramlibacter
+SRR24605835_filtp_woHU_1	0.92	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Polaromonas
+SRR24605835_filtp_woHU_1	1.3	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Rhodoferax_C
+SRR24605835_filtp_woHU_1	0.44	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Zeimonas
+SRR24605835_filtp_woHU_1	0.62	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Telluria
+SRR24605835_filtp_woHU_1	1.75	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Variovorax
+SRR24605835_filtp_woHU_1	0.96	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Albitalea
+SRR24605835_filtp_woHU_1	0.39	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Undibacterium
+SRR24605835_filtp_woHU_1	0.49	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__UBA5157
+SRR24605835_filtp_woHU_1	0.64	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Scleromatobacter
+SRR24605835_filtp_woHU_1	0.82	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Rhodocyclaceae; g__Desulfobacillus
+SRR24605835_filtp_woHU_1	2.54	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__JACQAP01; g__JACQAP01
+SRR24605835_filtp_woHU_1	40.98	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Casimicrobiaceae; g__PALSA-1003
+SRR24605835_filtp_woHU_1	34.66	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Casimicrobiaceae; g__VBCG01
+SRR24605835_filtp_woHU_1	12.84	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Casimicrobiaceae; g__CAIWHR01
+SRR24605835_filtp_woHU_1	2.77	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Casimicrobiaceae; g__PALSA-1005
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Casimicrobiaceae; g__UBA931
+SRR24605835_filtp_woHU_1	20.71	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-39; g__VBDM01
+SRR24605835_filtp_woHU_1	1.14	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-39; g__CAIYPG01
+SRR24605835_filtp_woHU_1	12.35	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-39; g__SCGC-AG-212-J23
+SRR24605835_filtp_woHU_1	0.44	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-39; g__JADGRQ01
+SRR24605835_filtp_woHU_1	2.3	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-39; g__2-12-FULL-64-23
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-39; g__SZAS-79
+SRR24605835_filtp_woHU_1	15.32	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-39; g__RBG-16-66-20
+SRR24605835_filtp_woHU_1	1.22	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-39; g__JAABQT01
+SRR24605835_filtp_woHU_1	0.72	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Usitatibacteraceae; g__JANYFH01
+SRR24605835_filtp_woHU_1	3.97	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Usitatibacteraceae; g__Usitatibacter
+SRR24605835_filtp_woHU_1	1.5	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Usitatibacteraceae; g__FEB-7
+SRR24605835_filtp_woHU_1	0.43	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Usitatibacteraceae; g__JADKJR01
+SRR24605835_filtp_woHU_1	3.0	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-41; g__SG8-41
+SRR24605835_filtp_woHU_1	5.62	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SG8-41; g__PALSA-1004
+SRR24605835_filtp_woHU_1	8.42	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__SHXO01; g__SHXO01
+SRR24605835_filtp_woHU_1	0.77	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__JAHFRG01; g__JAHFRG01
+SRR24605835_filtp_woHU_1	0.38	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Nitrosomonadaceae; g__Nitrosomonas
+SRR24605835_filtp_woHU_1	0.67	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Ga0077523; g__Ga0077523
+SRR24605835_filtp_woHU_1	40.63	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__FEN-1191
+SRR24605835_filtp_woHU_1	27.02	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__13-2-20CM-66-19
+SRR24605835_filtp_woHU_1	19.91	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__Bog-1198
+SRR24605835_filtp_woHU_1	4.21	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__CAIKZZ01
+SRR24605835_filtp_woHU_1	0.91	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__ZC4RG30
+SRR24605835_filtp_woHU_1	1.56	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__CADEED01
+SRR24605835_filtp_woHU_1	0.94	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__UBA964
+SRR24605835_filtp_woHU_1	3.58	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__CAILZL01
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__SCUD01
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__TMP-86
+SRR24605835_filtp_woHU_1	1.09	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__CADEFQ01
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas_E
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__UBA6186; f__UBA6186; g__CADEGZ01
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Acidiferrobacterales; f__Sulfurifustaceae; g__JACQFZ01
+SRR24605835_filtp_woHU_1	2.57	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Acidiferrobacterales; f__Sulfurifustaceae; g__JAHFQD01
+SRR24605835_filtp_woHU_1	0.9	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Rariloculales; f__Rariloculaceae; g__FEN-1219
+SRR24605835_filtp_woHU_1	2.12	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Xanthomonadales; f__Rhodanobacteraceae; g__Rudaea
+SRR24605835_filtp_woHU_1	1.38	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__GCA-2729495; f__GCA-2729495; g__QUBU01
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__DSM-16500; f__DSM-16500; g__UBA4722
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__DSM-16500; f__DSM-16500; g__Aquicella_A
+SRR24605835_filtp_woHU_1	44.91	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__Gp6-AA45
+SRR24605835_filtp_woHU_1	6.67	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__JAHFUJ01
+SRR24605835_filtp_woHU_1	9.04	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__Gp6-AA40
+SRR24605835_filtp_woHU_1	4.91	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__JAHFUI01
+SRR24605835_filtp_woHU_1	3.03	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__JADGOC01
+SRR24605835_filtp_woHU_1	10.08	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__JAMQPK01
+SRR24605835_filtp_woHU_1	11.53	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__WHSN01
+SRR24605835_filtp_woHU_1	4.04	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__2-02-FULL-65-29
+SRR24605835_filtp_woHU_1	0.85	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__2-12-FULL-65-11
+SRR24605835_filtp_woHU_1	1.37	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__JADZED01
+SRR24605835_filtp_woHU_1	0.95	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__12-FULL-67-14b
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__SCN-69-37; g__JALYRV01
+SRR24605835_filtp_woHU_1	0.91	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__SCN-69-37; g__CALFMR01
+SRR24605835_filtp_woHU_1	4.51	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__SCN-69-37; g__SCUN01
+SRR24605835_filtp_woHU_1	3.04	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__SCN-69-37; g__JADYYY01
+SRR24605835_filtp_woHU_1	4.35	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__SCN-69-37; g__SYFT01
+SRR24605835_filtp_woHU_1	1.95	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__SCN-69-37; g__SCN-69-37
+SRR24605835_filtp_woHU_1	0.56	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__2-12-FULL-66-21; g__2-12-FULL-66-21
+SRR24605835_filtp_woHU_1	2.78	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Fen-336; f__Fen-336; g__JACQGI01
+SRR24605835_filtp_woHU_1	5.35	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Fen-336; f__Fen-336; g__CADEEV01
+SRR24605835_filtp_woHU_1	2.17	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Fen-336; f__Fen-336; g__AA32
+SRR24605835_filtp_woHU_1	0.9	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Fen-336; f__Fen-336; g__WYBL01
+SRR24605835_filtp_woHU_1	2.07	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Fen-336; f__Fen-336; g__JAJDNS01
+SRR24605835_filtp_woHU_1	0.61	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Fen-336; f__Fen-336; g__FEN-336
+SRR24605835_filtp_woHU_1	0.73	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Fen-336; f__Fen-336; g__AA29
+SRR24605835_filtp_woHU_1	0.39	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Fen-336; f__JAGNNV01; g__JAGNNV01
+SRR24605835_filtp_woHU_1	47.94	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae; g__JAOAPY01
+SRR24605835_filtp_woHU_1	17.26	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae; g__UBA11740
+SRR24605835_filtp_woHU_1	48.13	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae; g__PSRF01
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae; g__JACMLC01
+SRR24605835_filtp_woHU_1	4.46	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__Pyrinomonadales; f__Pyrinomonadaceae; g__OLB17
+SRR24605835_filtp_woHU_1	8.2	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__UBA7656; f__UBA7656; g__JADGNW01
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__UBA7656; f__UBA7656; g__JACQDB01
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Acidobacteriota; c__Blastocatellia; o__RBC074; f__RBC074; g__RBC074
+SRR24605835_filtp_woHU_1	48.2	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__Palsa-187
+SRR24605835_filtp_woHU_1	8.9	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__Palsa-89
+SRR24605835_filtp_woHU_1	8.35	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__Solibacter
+SRR24605835_filtp_woHU_1	3.67	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__BOG-234
+SRR24605835_filtp_woHU_1	1.3	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__JAIQFL01
+SRR24605835_filtp_woHU_1	0.96	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__JANXXV01
+SRR24605835_filtp_woHU_1	0.38	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__JACQZT01
+SRR24605835_filtp_woHU_1	0.65	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__JAJYKC01
+SRR24605835_filtp_woHU_1	1.19	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__Bog-105
+SRR24605835_filtp_woHU_1	1.99	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__CADEFT01
+SRR24605835_filtp_woHU_1	1.45	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__PALSA-129
+SRR24605835_filtp_woHU_1	1.56	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__BOG-224
+SRR24605835_filtp_woHU_1	2.8	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__QHXW01
+SRR24605835_filtp_woHU_1	0.96	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__JACPNO01
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__Bog-375
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__JADGNR01
+SRR24605835_filtp_woHU_1	0.64	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Bryobacterales; f__Bryobacteraceae; g__Bog-159
+SRR24605835_filtp_woHU_1	3.37	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__JAIQET01
+SRR24605835_filtp_woHU_1	33.25	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__JANXUC01
+SRR24605835_filtp_woHU_1	5.57	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__Gp1-AA133
+SRR24605835_filtp_woHU_1	25.97	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__QIAJ01
+SRR24605835_filtp_woHU_1	1.85	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__JABCYV01
+SRR24605835_filtp_woHU_1	10.84	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__JAIQFF01
+SRR24605835_filtp_woHU_1	0.43	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__JALYIM01
+SRR24605835_filtp_woHU_1	25.23	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__Sulfotelmatobacter
+SRR24605835_filtp_woHU_1	1.61	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__JAIQEU01
+SRR24605835_filtp_woHU_1	3.12	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__Gp1-AA145
+SRR24605835_filtp_woHU_1	0.83	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__JAJPHW01
+SRR24605835_filtp_woHU_1	0.35	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__JAIQFW01
+SRR24605835_filtp_woHU_1	1.04	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__Gp1-AA124
+SRR24605835_filtp_woHU_1	1.1	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__JABCZH01
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__SbA1; g__JABDBE01
+SRR24605835_filtp_woHU_1	4.98	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__Gp1-AA117; g__Angelobacter
+SRR24605835_filtp_woHU_1	0.47	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__Koribacteraceae; g__TOLSYN
+SRR24605835_filtp_woHU_1	1.59	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__Koribacteraceae; g__Bog-257
+SRR24605835_filtp_woHU_1	4.84	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__Acidobacteriaceae; g__Edaphobacter
+SRR24605835_filtp_woHU_1	1.01	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Terriglobales; f__Acidobacteriaceae; g__Occallatibacter
+SRR24605835_filtp_woHU_1	3.99	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales; f__UBA7541; g__Palsa-189
+SRR24605835_filtp_woHU_1	21.4	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales; f__UBA7541; g__Palsa-360
+SRR24605835_filtp_woHU_1	37.03	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales; f__UBA7541; g__Acidoferrum
+SRR24605835_filtp_woHU_1	14.23	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales; f__UBA7541; g__Palsa-295
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales; f__UBA7541; g__JAIQGC01
+SRR24605835_filtp_woHU_1	0.46	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales; f__UBA7541; g__JAAFGT01
+SRR24605835_filtp_woHU_1	11.28	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__20CM-2-55-15; f__20CM-2-55-15; g__20CM-2-55-15
+SRR24605835_filtp_woHU_1	5.01	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__20CM-2-55-15; f__20CM-2-55-15; g__JAHFTY01
+SRR24605835_filtp_woHU_1	2.36	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__20CM-2-55-15; f__20CM-2-55-15; g__CAMBFR01
+SRR24605835_filtp_woHU_1	0.97	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__2-12-FULL-54-10; f__2-12-FULL-54-10; g__JACPPJ01
+SRR24605835_filtp_woHU_1	0.91	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__2-12-FULL-54-10; f__2-12-FULL-54-10; g__SHUM01
+SRR24605835_filtp_woHU_1	1.04	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Versatilivoradales; f__Versatilivoraceae; g__VFZK01
+SRR24605835_filtp_woHU_1	1.19	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Versatilivoradales; f__Versatilivoraceae; g__QHZQ01
+SRR24605835_filtp_woHU_1	0.37	Root; d__Bacteria; p__Acidobacteriota; c__Polarisedimenticolia; o__Gp22-AA2; f__Gp22-AA2; g__Gp22-AA3
+SRR24605835_filtp_woHU_1	1.57	Root; d__Bacteria; p__Acidobacteriota; c__Polarisedimenticolia; o__Polarisedimenticolales; f__JAIQFR01; g__JAIQFR01
+SRR24605835_filtp_woHU_1	1.28	Root; d__Bacteria; p__Acidobacteriota; c__Polarisedimenticolia; o__Polarisedimenticolales; f__JAIQFR01; g__CALMJU01
+SRR24605835_filtp_woHU_1	11.24	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__UBA5066; f__Gp7-AA6; g__Gp7-AA6
+SRR24605835_filtp_woHU_1	0.41	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__UBA5066; f__UBA5066; g__UBA5066
+SRR24605835_filtp_woHU_1	1.77	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__UBA5066; f__UBA5066; g__Fen-183
+SRR24605835_filtp_woHU_1	0.47	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Gp7-AA8; f__Gp7-AA8; g__Gp7-AA10
+SRR24605835_filtp_woHU_1	1.04	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Gp7-AA8; f__Gp7-AA8; g__JADGNZ01
+SRR24605835_filtp_woHU_1	0.88	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Gp7-AA8; f__Gp7-AA8; g__QHVT01
+SRR24605835_filtp_woHU_1	2.86	Root; d__Bacteria; p__Acidobacteriota; c__Thermoanaerobaculia; o__Multivoradales; f__UBA5704; g__UBA5704
+SRR24605835_filtp_woHU_1	6.89	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Haliangiales; f__Haliangiaceae; g__JABFXX01
+SRR24605835_filtp_woHU_1	1.14	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Haliangiales; f__Haliangiaceae; g__UBA2376
+SRR24605835_filtp_woHU_1	6.38	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__Polyangiaceae; g__Labilithrix
+SRR24605835_filtp_woHU_1	1.01	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__Polyangiaceae; g__Minicystis
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__Polyangiaceae; g__Polyangium
+SRR24605835_filtp_woHU_1	1.5	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__Polyangiaceae; g__Palsa-1150
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__Polyangiaceae; g__CAITLX01
+SRR24605835_filtp_woHU_1	1.37	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__Polyangiaceae; g__JANYGI01
+SRR24605835_filtp_woHU_1	1.53	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__Polyangiaceae; g__PMG-095
+SRR24605835_filtp_woHU_1	1.76	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__Polyangiaceae; g__Sorangium
+SRR24605835_filtp_woHU_1	0.52	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__JADJMO01; g__JALHOE01
+SRR24605835_filtp_woHU_1	0.7	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Polyangiales; f__JAFGIB01; g__JADGRF01
+SRR24605835_filtp_woHU_1	1.15	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Palsa-1104; f__Palsa-1104; g__PALSA-1104
+SRR24605835_filtp_woHU_1	2.13	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Palsa-1104; f__Palsa-1104; g__SHYY01
+SRR24605835_filtp_woHU_1	1.8	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Fen-1088; f__Fen-1088; g__FEN-1088
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Fen-1088; f__Fen-1088; g__Fen-1137
+SRR24605835_filtp_woHU_1	4.51	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Fen-1088; f__Fen-1088; g__JADGRB01
+SRR24605835_filtp_woHU_1	0.75	Root; d__Bacteria; p__Myxococcota; c__Polyangia; o__Fen-1088; f__Fen-1088; g__JANXXE01
+SRR24605835_filtp_woHU_1	1.44	Root; d__Bacteria; p__Myxococcota; c__Myxococcia; o__Myxococcales; f__JAKAPL01; g__JAJXUD01
+SRR24605835_filtp_woHU_1	0.69	Root; d__Bacteria; p__Myxococcota; c__Myxococcia; o__Myxococcales; f__JAKAPL01; g__JAKAPL01
+SRR24605835_filtp_woHU_1	2.14	Root; d__Bacteria; p__Myxococcota; c__Myxococcia; o__Myxococcales; f__Myxococcaceae; g__RPRB01
+SRR24605835_filtp_woHU_1	0.85	Root; d__Bacteria; p__Myxococcota; c__Myxococcia; o__Myxococcales; f__Myxococcaceae; g__JAEUJP01
+SRR24605835_filtp_woHU_1	10.09	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__UBA11361
+SRR24605835_filtp_woHU_1	1.16	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__Bu33
+SRR24605835_filtp_woHU_1	0.42	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__Ktedonosporobacter
+SRR24605835_filtp_woHU_1	2.91	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__CF-113
+SRR24605835_filtp_woHU_1	4.08	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__Dictyobacter
+SRR24605835_filtp_woHU_1	2.11	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__DTNP01
+SRR24605835_filtp_woHU_1	1.19	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__JACDAE01
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__Ktedonobacter
+SRR24605835_filtp_woHU_1	0.76	Root; d__Bacteria; p__Chloroflexota; c__Ktedonobacteria; o__Ktedonobacterales; f__Ktedonobacteraceae; g__Tengunoibacter
+SRR24605835_filtp_woHU_1	20.21	Root; d__Bacteria; p__Chloroflexota; c__Dormibacteria; o__Dormibacterales; f__Dormibacteraceae; g__Palsa-872
+SRR24605835_filtp_woHU_1	2.06	Root; d__Bacteria; p__Chloroflexota; c__Dormibacteria; o__Dormibacterales; f__Dormibacteraceae; g__UBA10449
+SRR24605835_filtp_woHU_1	6.19	Root; d__Bacteria; p__Chloroflexota; c__Dormibacteria; o__Dormibacterales; f__Dormibacteraceae; g__40CM-4-65-16
+SRR24605835_filtp_woHU_1	2.08	Root; d__Bacteria; p__Chloroflexota; c__Dormibacteria; o__Dormibacterales; f__Dormibacteraceae; g__Palsa-870
+SRR24605835_filtp_woHU_1	0.62	Root; d__Bacteria; p__Chloroflexota; c__Dormibacteria; o__Dormibacterales; f__Dormibacteraceae; g__SCQL01
+SRR24605835_filtp_woHU_1	0.63	Root; d__Bacteria; p__Chloroflexota; c__Dormibacteria; o__CF-121; f__CF-121; g__CF-13
+SRR24605835_filtp_woHU_1	5.0	Root; d__Bacteria; p__Chloroflexota; c__Chloroflexia; o__Chloroflexales; f__Roseiflexaceae; g__Kouleothrix
+SRR24605835_filtp_woHU_1	1.88	Root; d__Bacteria; p__Chloroflexota; c__Chloroflexia; o__Chloroflexales; f__Roseiflexaceae; g__Ribeiella
+SRR24605835_filtp_woHU_1	1.15	Root; d__Bacteria; p__Chloroflexota; c__Chloroflexia; o__QHBQ01; f__JADMIH01; g__JADMIH01
+SRR24605835_filtp_woHU_1	4.39	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6663; g__JADLEU01
+SRR24605835_filtp_woHU_1	1.82	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6663; g__JADZEK01
+SRR24605835_filtp_woHU_1	0.65	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__UBA6663; g__SpSt-583
+SRR24605835_filtp_woHU_1	0.76	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__Villigracilaceae; g__Defluviilinea
+SRR24605835_filtp_woHU_1	2.16	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__Villigracilaceae; g__Villigracilis
+SRR24605835_filtp_woHU_1	0.62	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Anaerolineales; f__VGOW01; g__VGOW01
+SRR24605835_filtp_woHU_1	1.07	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__UBA4142; f__SHND01; g__SHND01
+SRR24605835_filtp_woHU_1	1.39	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Aggregatilineales; f__Phototrophicaceae; g__Flexifilum
+SRR24605835_filtp_woHU_1	5.18	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Aggregatilineales; f__Phototrophicaceae; g__CFX2
+SRR24605835_filtp_woHU_1	3.07	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Aggregatilineales; f__UBA2796; g__JAJPHV01
+SRR24605835_filtp_woHU_1	0.6	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__Aggregatilineales; f__UBA2796; g__JAHBVK01
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__J036; f__Brachytrichaceae; g__CAIXPS01
+SRR24605835_filtp_woHU_1	1.61	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__JACRMK01; f__JACRMK01; g__JACQEC01
+SRR24605835_filtp_woHU_1	1.58	Root; d__Bacteria; p__Chloroflexota; c__Anaerolineae; o__JACRMK01; f__JACRMK01; g__JACRMK01
+SRR24605835_filtp_woHU_1	3.74	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__C-114
+SRR24605835_filtp_woHU_1	2.65	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__Palsa-1033
+SRR24605835_filtp_woHU_1	1.72	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__CF-46
+SRR24605835_filtp_woHU_1	1.71	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__CAIXZV01
+SRR24605835_filtp_woHU_1	1.01	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__JACDAV01
+SRR24605835_filtp_woHU_1	0.92	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__Fen-1039
+SRR24605835_filtp_woHU_1	7.79	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__UBA5189
+SRR24605835_filtp_woHU_1	6.64	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__SPCO01
+SRR24605835_filtp_woHU_1	1.18	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__Palsa-1032
+SRR24605835_filtp_woHU_1	1.31	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__JAFMJV01
+SRR24605835_filtp_woHU_1	1.05	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__JAKAHU01
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__Limnocylindrales; f__CSP1-4; g__Chersky-267
+SRR24605835_filtp_woHU_1	2.32	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__QHBO01; f__QHBO01; g__CF-167
+SRR24605835_filtp_woHU_1	0.81	Root; d__Bacteria; p__Chloroflexota; c__Limnocylindria; o__P2-11E; f__P2-11E; g__CF-39
+SRR24605835_filtp_woHU_1	1.19	Root; d__Bacteria; p__Chloroflexota; c__UBA6077; o__UBA6077; f__SHYK01; g__JAERMM01
+SRR24605835_filtp_woHU_1	3.52	Root; d__Bacteria; p__Chloroflexota; c__UBA6077; o__UBA6077; f__CF-72; g__CF-72
+SRR24605835_filtp_woHU_1	4.33	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__DSTF01; f__JACRBR01; g__JANXYW01
+SRR24605835_filtp_woHU_1	0.46	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__DSTF01; f__JACRBR01; g__JADMII01
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__DSTF01; f__JACRBR01; g__JACRBR01
+SRR24605835_filtp_woHU_1	0.63	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__DSTF01; f__JACRBR01; g__JALYKW01
+SRR24605835_filtp_woHU_1	5.98	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__DSTF01; f__WHTK01; g__WHTK01
+SRR24605835_filtp_woHU_1	0.42	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__UBA2979; f__UBA2979; g__RH-chloro-G1
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__CAUJGQ01; f__CAUJGQ01; g__CALFMN01
+SRR24605835_filtp_woHU_1	0.6	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__Binatales; f__Binataceae; g__DTIX01
+SRR24605835_filtp_woHU_1	3.23	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__Binatales; f__Binataceae; g__JAKAVN01
+SRR24605835_filtp_woHU_1	6.74	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__Binatales; f__Binataceae; g__Binatus
+SRR24605835_filtp_woHU_1	4.48	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__Binatales; f__Binataceae; g__JADMIL01
+SRR24605835_filtp_woHU_1	0.67	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__Binatales; f__Binataceae; g__JAJPJA01
+SRR24605835_filtp_woHU_1	0.6	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__Binatales; f__Binataceae; g__JAFAHS01
+SRR24605835_filtp_woHU_1	2.1	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__HRBIN30; f__JACQEN01; g__JACQEN01
+SRR24605835_filtp_woHU_1	1.99	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__HRBIN30; f__JAGDMS01; g__JAKLJW01
+SRR24605835_filtp_woHU_1	6.58	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__HRBIN30; f__JAGDMS01; g__JAGDMS01
+SRR24605835_filtp_woHU_1	1.42	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__HRBIN30; f__CADEER01; g__CADEER01
+SRR24605835_filtp_woHU_1	4.88	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__HRBIN30; f__CADEER01; g__JAHBUY01
+SRR24605835_filtp_woHU_1	6.69	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__HRBIN30; f__JACQVA1; g__JACQVA1
+SRR24605835_filtp_woHU_1	0.43	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__HRBIN30; f__HRBIN30; g__HRBIN30
+SRR24605835_filtp_woHU_1	5.5	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA9968; f__UBA9968; g__DP-20
+SRR24605835_filtp_woHU_1	1.42	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__DP-6; f__DP-6; g__DP-6
+SRR24605835_filtp_woHU_1	3.34	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__DP-6; f__DP-6; g__DP-3
+SRR24605835_filtp_woHU_1	0.47	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__DP-6; f__DP-6; g__JAHCID01
+SRR24605835_filtp_woHU_1	4.86	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UTPRO1; f__UTPRO1; g__DP-19
+SRR24605835_filtp_woHU_1	3.74	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UTPRO1; f__UTPRO1; g__UTPRO1
+SRR24605835_filtp_woHU_1	1.5	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__Bin18; f__Bin18; g__JACQEL01
+SRR24605835_filtp_woHU_1	1.4	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA12015; f__UBA12015; g__VGTK01
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__UBA12015; f__UBA12015; g__VGTG01
+SRR24605835_filtp_woHU_1	39.24	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae; g__Palsa-1315
+SRR24605835_filtp_woHU_1	0.58	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae; g__Nitrospira_D
+SRR24605835_filtp_woHU_1	1.99	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales; f__NS-4; g__SCTG01
+SRR24605835_filtp_woHU_1	1.0	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales; f__NS-4; g__NS-11
+SRR24605835_filtp_woHU_1	0.75	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__2-01-FULL-66-17; f__2-01-FULL-66-17; g__2-01-FULL-66-17
+SRR24605835_filtp_woHU_1	1.54	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__IMCC26256; g__SHUZ01
+SRR24605835_filtp_woHU_1	0.77	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__IMCC26256; g__JAENVU01
+SRR24605835_filtp_woHU_1	0.52	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__IMCC26256; g__Chersky-806
+SRR24605835_filtp_woHU_1	0.46	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__PALSA-610; g__JAODBJ01
+SRR24605835_filtp_woHU_1	11.88	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__PALSA-610; g__PALSA-610
+SRR24605835_filtp_woHU_1	1.34	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__PALSA-610; g__BPGH01
+SRR24605835_filtp_woHU_1	0.55	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__JADLDD01; g__JADLDD01
+SRR24605835_filtp_woHU_1	2.04	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__PALSA-555; g__SHVJ01
+SRR24605835_filtp_woHU_1	2.15	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__PALSA-555; g__PALSA-555
+SRR24605835_filtp_woHU_1	4.02	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__PALSA-555; g__CAIUKV01
+SRR24605835_filtp_woHU_1	1.74	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__PALSA-555; g__JALHSW01
+SRR24605835_filtp_woHU_1	0.38	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__JACDBD01; g__JACDBD01
+SRR24605835_filtp_woHU_1	0.6	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__JACDBD01; g__JALZAA01
+SRR24605835_filtp_woHU_1	1.53	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__JAMXLJ01; g__JAMXLJ01
+SRR24605835_filtp_woHU_1	0.63	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__JAOSJM01; g__JAOSJM01
+SRR24605835_filtp_woHU_1	0.65	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__IMCC26256; f__Chersky-534; g__Chersky-534
+SRR24605835_filtp_woHU_1	0.61	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__UBA8139; g__UBA4742
+SRR24605835_filtp_woHU_1	9.89	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae; g__JAENVT01
+SRR24605835_filtp_woHU_1	3.48	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae; g__UBA668
+SRR24605835_filtp_woHU_1	2.1	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae; g__WLMZ01
+SRR24605835_filtp_woHU_1	0.37	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae; g__Casp-actino8
+SRR24605835_filtp_woHU_1	0.66	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__Ilumatobacteraceae; g__UBA2093
+SRR24605835_filtp_woHU_1	0.42	Root; d__Bacteria; p__Actinomycetota; c__Acidimicrobiia; o__Acidimicrobiales; f__JADJXE01; g__JADJXE01
+SRR24605835_filtp_woHU_1	3.23	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__Palsa-744
+SRR24605835_filtp_woHU_1	1.48	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__Palsa-465
+SRR24605835_filtp_woHU_1	0.54	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__CADCVQ01
+SRR24605835_filtp_woHU_1	0.82	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__F1-60-MAGs163
+SRR24605835_filtp_woHU_1	0.38	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Solirubrobacterales; f__Solirubrobacteraceae; g__Palsa-513
+SRR24605835_filtp_woHU_1	1.68	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Solirubrobacterales; f__70-9; g__VAYN01
+SRR24605835_filtp_woHU_1	10.06	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__PALSA-600
+SRR24605835_filtp_woHU_1	3.93	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__Palsa-739
+SRR24605835_filtp_woHU_1	5.07	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__Gaiellaceae; g__Gaiella
+SRR24605835_filtp_woHU_1	3.47	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__JALYLC01; g__JALYLC01
+SRR24605835_filtp_woHU_1	1.38	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__JAICJC01; g__JAICYJ01
+SRR24605835_filtp_woHU_1	1.59	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__JAICJC01; g__JAICJC01
+SRR24605835_filtp_woHU_1	1.02	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__F1-60-MAGs149; g__VFJZ01
+SRR24605835_filtp_woHU_1	1.72	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Pseudonocardiaceae; g__Pseudonocardia
+SRR24605835_filtp_woHU_1	2.46	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Mycobacteriaceae; g__Mycobacterium
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Micromonosporaceae; g__Dactylosporangium
+SRR24605835_filtp_woHU_1	1.21	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Micromonosporaceae; g__Actinoplanes
+SRR24605835_filtp_woHU_1	0.46	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Micromonosporaceae; g__JAEZGP01
+SRR24605835_filtp_woHU_1	1.36	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Micromonosporaceae; g__Micromonospora
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Mycobacteriales; f__Nakamurellaceae; g__Nakamurella
+SRR24605835_filtp_woHU_1	0.83	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Actinomycetales; f__Microbacteriaceae; g__Galbitalea
+SRR24605835_filtp_woHU_1	0.41	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Actinomycetales; f__Microbacteriaceae; g__Microbacterium
+SRR24605835_filtp_woHU_1	0.62	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Actinomycetales; f__Kineosporiaceae; g__Kineosporia
+SRR24605835_filtp_woHU_1	6.39	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Streptosporangiales; f__Streptosporangiaceae; g__Palsa-504
+SRR24605835_filtp_woHU_1	0.39	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Streptosporangiales; f__Streptosporangiaceae; g__Spirillospora
+SRR24605835_filtp_woHU_1	0.65	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Streptosporangiales; f__Streptosporangiaceae; g__Palsa-506
+SRR24605835_filtp_woHU_1	0.77	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Propionibacteriales; f__Nocardioidaceae; g__Nocardioides
+SRR24605835_filtp_woHU_1	0.5	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Prado026; f__Prado026; g__JANYIP01
+SRR24605835_filtp_woHU_1	4.94	Root; d__Bacteria; p__Actinomycetota; c__UBA4738; o__UBA4738; f__HRBIN12; g__JALYLM01
+SRR24605835_filtp_woHU_1	1.12	Root; d__Bacteria; p__Actinomycetota; c__UBA4738; o__UBA4738; f__HRBIN12; g__JANXVR01
+SRR24605835_filtp_woHU_1	1.09	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__UBA10324; g__MGR-bin340
+SRR24605835_filtp_woHU_1	0.75	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__UBA10324; g__JAFDYS01
+SRR24605835_filtp_woHU_1	0.96	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__UBA10324; g__JACCZZ01
+SRR24605835_filtp_woHU_1	21.89	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Puia
+SRR24605835_filtp_woHU_1	18.05	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Ferruginibacter
+SRR24605835_filtp_woHU_1	14.77	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__JJ008
+SRR24605835_filtp_woHU_1	0.6	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__VBAS01
+SRR24605835_filtp_woHU_1	2.24	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__JAFDYH01
+SRR24605835_filtp_woHU_1	11.14	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__VBAT01
+SRR24605835_filtp_woHU_1	2.88	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Niastella
+SRR24605835_filtp_woHU_1	2.01	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Hanamia
+SRR24605835_filtp_woHU_1	3.03	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__JACMLD01
+SRR24605835_filtp_woHU_1	0.64	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__SXYR01
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Flavihumibacter
+SRR24605835_filtp_woHU_1	0.89	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Parafilimonas
+SRR24605835_filtp_woHU_1	1.55	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__Flavipsychrobacter
+SRR24605835_filtp_woHU_1	0.41	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Chitinophagaceae; g__JAFAEM01
+SRR24605835_filtp_woHU_1	0.77	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__LD1; g__Bog-950
+SRR24605835_filtp_woHU_1	0.49	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Chitinophagales; f__Saprospiraceae; g__Opimibacter
+SRR24605835_filtp_woHU_1	0.76	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__AKYH767-A; f__2013-40CM-41-45; g__JAPLDA01
+SRR24605835_filtp_woHU_1	1.43	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__AKYH767-A; f__2013-40CM-41-45; g__PALSA-967
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__AKYH767-A; f__2013-40CM-41-45; g__JADKIH01
+SRR24605835_filtp_woHU_1	8.33	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Cyclobacteriaceae; g__ELB16-189
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Cytophagales; f__Hymenobacteraceae; g__Hymenobacter
+SRR24605835_filtp_woHU_1	0.83	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__PHOS-HE28; g__PHOS-HE28
+SRR24605835_filtp_woHU_1	0.48	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Flavobacteriales; f__Flavobacteriaceae; g__Flavobacterium
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__B-17B0; f__B-17BO; g__UBA2475
+SRR24605835_filtp_woHU_1	1.33	Root; d__Bacteria; p__Bacteroidota; c__Bacteroidia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Mucilaginibacter
+SRR24605835_filtp_woHU_1	1.21	Root; d__Bacteria; p__Bacteroidota; c__Ignavibacteria; o__SJA-28; f__OLB5; g__OLB5
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Bacteroidota; c__Ignavibacteria; o__SJA-28; f__B-1AR; g__JAGPCH01
+SRR24605835_filtp_woHU_1	0.43	Root; d__Bacteria; p__Bacteroidota; c__Ignavibacteria; o__SJA-28; f__B-1AR; g__JAEUSI01
+SRR24605835_filtp_woHU_1	0.37	Root; d__Bacteria; p__Bacteroidota; c__UBA10030; o__UBA10030; f__SZUA-254; g__JACOSX01
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Bacteroidota; c__Kapaibacteriia; o__Palsa-1295; f__Palsa-1295; g__PALSA-1296
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Bacteroidota; c__Kapaibacteriia; o__Palsa-1295; f__Palsa-1295; g__PALSA-1295
+SRR24605835_filtp_woHU_1	30.83	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__AR37
+SRR24605835_filtp_woHU_1	6.14	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__UBA12499
+SRR24605835_filtp_woHU_1	4.03	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__AR5
+SRR24605835_filtp_woHU_1	5.78	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__AR31
+SRR24605835_filtp_woHU_1	2.75	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__20CM-2-70-11
+SRR24605835_filtp_woHU_1	3.85	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__AR8
+SRR24605835_filtp_woHU_1	3.42	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__GWA2-73-35
+SRR24605835_filtp_woHU_1	4.82	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__JACQFL01
+SRR24605835_filtp_woHU_1	1.25	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__AR12
+SRR24605835_filtp_woHU_1	1.33	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__JACPCG01
+SRR24605835_filtp_woHU_1	0.56	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__AR19
+SRR24605835_filtp_woHU_1	5.33	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__40CM-68-15
+SRR24605835_filtp_woHU_1	0.39	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__AR9
+SRR24605835_filtp_woHU_1	1.7	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__VGLJ01
+SRR24605835_filtp_woHU_1	2.42	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__CAMLFJ01
+SRR24605835_filtp_woHU_1	1.22	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__JALHPA01; g__JALHPA01
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__PALSA-1355; g__JALHMI01
+SRR24605835_filtp_woHU_1	5.02	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__PALSA-1355; g__PALSA-1355
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__PALSA-1355; g__CALFYT01
+SRR24605835_filtp_woHU_1	2.41	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__Lacipirellulaceae; g__JABDGM01
+SRR24605835_filtp_woHU_1	2.3	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__JADZDJ01; g__JADZDJ01
+SRR24605835_filtp_woHU_1	0.95	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__Pirellulaceae; g__SXOA01
+SRR24605835_filtp_woHU_1	0.63	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__UBA7805; g__JAIOPX01
+SRR24605835_filtp_woHU_1	0.59	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Pirellulales; f__JACPPG01; g__JACPPG01
+SRR24605835_filtp_woHU_1	1.11	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JAGVLI01
+SRR24605835_filtp_woHU_1	1.18	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JAIEMG01
+SRR24605835_filtp_woHU_1	1.09	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__SIAJ01
+SRR24605835_filtp_woHU_1	6.47	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__SIAQ01
+SRR24605835_filtp_woHU_1	1.42	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__VGYC01
+SRR24605835_filtp_woHU_1	1.69	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JAKEFD01
+SRR24605835_filtp_woHU_1	2.57	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JAJPHU01
+SRR24605835_filtp_woHU_1	1.7	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JAKBCS01
+SRR24605835_filtp_woHU_1	0.71	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JAKEET01
+SRR24605835_filtp_woHU_1	0.39	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JANWYO01
+SRR24605835_filtp_woHU_1	1.18	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JACOUH01
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JADLBT01
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__CAKZUU01
+SRR24605835_filtp_woHU_1	1.41	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JACPZP01
+SRR24605835_filtp_woHU_1	0.63	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JAIOQJ01
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JANWVS01
+SRR24605835_filtp_woHU_1	0.66	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__JAIEPT01
+SRR24605835_filtp_woHU_1	1.06	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__Gemmataceae; g__Gemmata
+SRR24605835_filtp_woHU_1	0.67	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Gemmatales; f__HRBIN36; g__JAEUIE01
+SRR24605835_filtp_woHU_1	1.13	Root; d__Bacteria; p__Planctomycetota; c__Planctomycetia; o__Planctomycetales; f__Planctomycetaceae; g__JACQFH01
+SRR24605835_filtp_woHU_1	1.51	Root; d__Bacteria; p__Planctomycetota; c__UBA1135; o__UBA1135; f__GCA-002686595; g__JAEUIA01
+SRR24605835_filtp_woHU_1	1.64	Root; d__Bacteria; p__Planctomycetota; c__UBA1135; o__UBA1135; f__GCA-002686595; g__JADJQU01
+SRR24605835_filtp_woHU_1	0.9	Root; d__Bacteria; p__Planctomycetota; c__UBA1135; o__UBA1135; f__GCA-002686595; g__JADJLZ01
+SRR24605835_filtp_woHU_1	1.13	Root; d__Bacteria; p__Planctomycetota; c__JAJSAM01; o__JAKLKS01; f__JAKLKS01; g__JAKLKS01
+SRR24605835_filtp_woHU_1	3.02	Root; d__Bacteria; p__Planctomycetota; c__B15-G4; o__B15-G4; f__SIAN01; g__SIAN01
+SRR24605835_filtp_woHU_1	1.26	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__WQYP01; f__WQYP01; g__WQYP01
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__WQYP01; f__WQYP01; g__CAIMWO01
+SRR24605835_filtp_woHU_1	0.57	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__JACMJD01
+SRR24605835_filtp_woHU_1	0.77	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__JALYJB01
+SRR24605835_filtp_woHU_1	1.78	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__JAICTV01
+SRR24605835_filtp_woHU_1	0.39	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__CALEKX01
+SRR24605835_filtp_woHU_1	0.77	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__RYN-428
+SRR24605835_filtp_woHU_1	1.24	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__PALSA-1353
+SRR24605835_filtp_woHU_1	0.76	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__UBA1161
+SRR24605835_filtp_woHU_1	1.02	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__JADYZN01
+SRR24605835_filtp_woHU_1	1.82	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__JAICIO01
+SRR24605835_filtp_woHU_1	0.39	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__UBA2421
+SRR24605835_filtp_woHU_1	0.39	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__JADLCB01
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Tepidisphaerales; f__Tepidisphaeraceae; g__Humisphaera
+SRR24605835_filtp_woHU_1	0.87	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__UBA1924; g__UBA4658
+SRR24605835_filtp_woHU_1	0.41	Root; d__Bacteria; p__Planctomycetota; c__Phycisphaerae; o__Phycisphaerales; f__UBA1924; g__JAEYTB01
+SRR24605835_filtp_woHU_1	0.65	Root; d__Bacteria; p__Planctomycetota; c__SZUA-567; o__H5-PLA8; f__H5-PLA8; g__JANXLS01
+SRR24605835_filtp_woHU_1	0.85	Root; d__Bacteria; p__Planctomycetota; c__UBA8108; o__UBA8108; f__SXIK01; g__JACQVW01
+SRR24605835_filtp_woHU_1	1.39	Root; d__Bacteria; p__Planctomycetota; c__UBA8108; o__UBA8108; f__SXIK01; g__SXIK01
+SRR24605835_filtp_woHU_1	2.15	Root; d__Bacteria; p__Planctomycetota; c__PLA2; o__PLA2; f__JAEUHO01; g__JAEUHO01
+SRR24605835_filtp_woHU_1	1.29	Root; d__Bacteria; p__Planctomycetota; c__MHYJ01; o__MHYJ01; f__JACPRB01; g__JACQFK01
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__PALSA-1337; g__C7867-002
+SRR24605835_filtp_woHU_1	2.65	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__UBA2103; g__C7867-001
+SRR24605835_filtp_woHU_1	9.49	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__SBAW01; g__GWA1-54-10
+SRR24605835_filtp_woHU_1	9.76	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__UBA2100; g__UBA10103
+SRR24605835_filtp_woHU_1	0.48	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__UBA9973; g__UBA8515
+SRR24605835_filtp_woHU_1	1.96	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__UBA9973; g__UBA9973
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__W02-35-19; g__WO2-35-19
+SRR24605835_filtp_woHU_1	2.89	Root; d__Bacteria; p__Patescibacteria; c__Paceibacteria; o__UBA9973; f__Zambryskibacteraceae; g__C7867-006
+SRR24605835_filtp_woHU_1	0.82	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA4665; g__JAJXTN01
+SRR24605835_filtp_woHU_1	0.7	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA4665; g__PMNU01
+SRR24605835_filtp_woHU_1	0.96	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA4665; g__CAMLQK01
+SRR24605835_filtp_woHU_1	0.5	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA4665; g__UBA4729
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA10212; g__JACDFN01
+SRR24605835_filtp_woHU_1	0.52	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA10212; g__21-14-0-10-47-8-A
+SRR24605835_filtp_woHU_1	1.5	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__UBA10212; g__JAIFWC01
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__OMJO01; g__OMJO01
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__Nanosyncoccaceae; g__Nanosyncoccus
+SRR24605835_filtp_woHU_1	0.5	Root; d__Bacteria; p__Patescibacteria; c__Saccharimonadia; o__Saccharimonadales; f__JAUPVS01; g__JAKOXV01
+SRR24605835_filtp_woHU_1	1.13	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__Levybacterales; f__UBA12049; g__JAHFKE01
+SRR24605835_filtp_woHU_1	1.85	Root; d__Bacteria; p__Patescibacteria; c__Microgenomatia; o__Levybacterales; f__UBA12049; g__JACDET01
+SRR24605835_filtp_woHU_1	1.15	Root; d__Bacteria; p__Patescibacteria; c__Doudnabacteria; o__UBA920; f__UBA920; g__PALSA-1336
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Patescibacteria; c__ABY1; o__SBBC01; f__CAIJZX01; g__CAIJZX01
+SRR24605835_filtp_woHU_1	1.92	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__JABFSM01
+SRR24605835_filtp_woHU_1	6.33	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__JADJOM01
+SRR24605835_filtp_woHU_1	4.29	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__JACDDX01
+SRR24605835_filtp_woHU_1	0.49	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__AG29
+SRR24605835_filtp_woHU_1	1.26	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__SHZT01
+SRR24605835_filtp_woHU_1	1.69	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__20CM-2-65-7
+SRR24605835_filtp_woHU_1	3.08	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__AG41
+SRR24605835_filtp_woHU_1	2.99	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__Palsa-1233
+SRR24605835_filtp_woHU_1	0.92	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__AG25
+SRR24605835_filtp_woHU_1	0.58	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__JACOVF01
+SRR24605835_filtp_woHU_1	0.75	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__13-1-40CM-70-15
+SRR24605835_filtp_woHU_1	0.61	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__JAUYMC01
+SRR24605835_filtp_woHU_1	0.36	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__JANYKV01
+SRR24605835_filtp_woHU_1	1.6	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__GWC2-71-9; g__20CM-4-69-16
+SRR24605835_filtp_woHU_1	3.91	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__JADGGM01
+SRR24605835_filtp_woHU_1	4.01	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__JAQBQB01
+SRR24605835_filtp_woHU_1	3.45	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__AG11
+SRR24605835_filtp_woHU_1	2.47	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__FEN-1250
+SRR24605835_filtp_woHU_1	0.8	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__UBA4720
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__Gemmatimonas
+SRR24605835_filtp_woHU_1	0.37	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__JAICNG01
+SRR24605835_filtp_woHU_1	1.94	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__Fen-1231
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__Gemmatimonadaceae; g__SCN-70-22
+SRR24605835_filtp_woHU_1	0.99	Root; d__Bacteria; p__Gemmatimonadota; c__Gemmatimonadetes; o__Gemmatimonadales; f__JACORV01; g__JACORV01
+SRR24605835_filtp_woHU_1	2.31	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA11358; g__JADLHS01
+SRR24605835_filtp_woHU_1	5.25	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA11358; g__UBA11358
+SRR24605835_filtp_woHU_1	1.51	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA11358; g__WYBW01
+SRR24605835_filtp_woHU_1	0.9	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA11358; g__CAIKLQ01
+SRR24605835_filtp_woHU_1	0.89	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA11358; g__UBA7542
+SRR24605835_filtp_woHU_1	1.76	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA8199; g__PALSA-1440
+SRR24605835_filtp_woHU_1	0.8	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA8199; g__UBA693
+SRR24605835_filtp_woHU_1	0.72	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA8199; g__JANXQE01
+SRR24605835_filtp_woHU_1	0.99	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__CAIQOK01; g__CAIQOK01
+SRR24605835_filtp_woHU_1	5.04	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__PALSA-1396; g__PALSA-1396
+SRR24605835_filtp_woHU_1	0.37	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__JAKEEH01; g__JAKEEH01
+SRR24605835_filtp_woHU_1	1.8	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__JACPZS01; g__JACPZS01
+SRR24605835_filtp_woHU_1	1.47	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__Pedosphaeraceae; g__JAQGOT01
+SRR24605835_filtp_woHU_1	0.7	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__Pedosphaeraceae; g__Pedosphaera
+SRR24605835_filtp_woHU_1	0.6	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__Pedosphaeraceae; g__JAJPHR01
+SRR24605835_filtp_woHU_1	0.61	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__SIBE01; g__SIBE01
+SRR24605835_filtp_woHU_1	0.53	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__JADJPG01; g__JADJPG01
+SRR24605835_filtp_woHU_1	0.42	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__UBA11320; g__UBA11320
+SRR24605835_filtp_woHU_1	0.52	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Limisphaerales; f__CAMLLE01; g__CAMLLE01
+SRR24605835_filtp_woHU_1	3.82	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__UBA10450; g__Palsa-1392
+SRR24605835_filtp_woHU_1	1.64	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__UBA10450; g__JACCTI01
+SRR24605835_filtp_woHU_1	7.12	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__UBA10450; g__Udaeobacter
+SRR24605835_filtp_woHU_1	8.92	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__UBA10450; g__AV80
+SRR24605835_filtp_woHU_1	0.49	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__UBA10450; g__AV69
+SRR24605835_filtp_woHU_1	1.4	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__Chthoniobacteraceae; g__JAJPJG01
+SRR24605835_filtp_woHU_1	2.56	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__Chthoniobacteraceae; g__Chthoniobacter
+SRR24605835_filtp_woHU_1	2.12	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__Chthoniobacteraceae; g__SXWH01
+SRR24605835_filtp_woHU_1	1.87	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Chthoniobacterales; f__SZAS-18; g__SZAS-18
+SRR24605835_filtp_woHU_1	0.77	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Methylacidiphilales; f__UBA1321; g__JABDGH01
+SRR24605835_filtp_woHU_1	6.82	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Palsa-1439; f__Palsa-1439; g__CAINDI01
+SRR24605835_filtp_woHU_1	7.89	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Palsa-1439; f__Palsa-1439; g__Palsa-1439
+SRR24605835_filtp_woHU_1	0.56	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Palsa-1439; f__Palsa-1439; g__CAIKAP01
+SRR24605835_filtp_woHU_1	1.59	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales; f__Opitutaceae; g__Opi-474
+SRR24605835_filtp_woHU_1	1.98	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales; f__Opitutaceae; g__ER46
+SRR24605835_filtp_woHU_1	1.78	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Opitutales; f__Opitutaceae; g__Lacunisphaera
+SRR24605835_filtp_woHU_1	0.88	Root; d__Bacteria; p__Verrucomicrobiota; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae; g__VFKE01
+SRR24605835_filtp_woHU_1	1.35	Root; d__Bacteria; p__Elusimicrobiota; c__Elusimicrobia; o__F11; f__F11; g__JAJVIP01
+SRR24605835_filtp_woHU_1	7.93	Root; d__Bacteria; p__Elusimicrobiota; c__Elusimicrobia; o__2-01-FULL-59-12; f__2-01-FULL-59-12; g__2-01-FULL-59-12
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Bdellovibrionota; c__UBA1018; o__UBA1018; f__UBA1018; g__JAMPXJ01
+SRR24605835_filtp_woHU_1	1.45	Root; d__Bacteria; p__Bdellovibrionota; c__Bdellovibrionia; o__Bdellovibrionales; f__UBA1609; g__JALHOQ01
+SRR24605835_filtp_woHU_1	0.52	Root; d__Bacteria; p__Omnitrophota; c__Koll11; o__Zapsychrales; f__Fredricksoniimonadaceae; g__JACQCF01
+SRR24605835_filtp_woHU_1	1.46	Root; d__Bacteria; p__Omnitrophota; c__Koll11; o__Zapsychrales; f__Fredricksoniimonadaceae; g__JABDGZ01
+SRR24605835_filtp_woHU_1	7.18	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46; f__RBG-16-71-46; g__WS-11
+SRR24605835_filtp_woHU_1	5.5	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46; f__RBG-16-71-46; g__JAIOPA01
+SRR24605835_filtp_woHU_1	0.89	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46; f__RBG-16-71-46; g__WS-3
+SRR24605835_filtp_woHU_1	0.42	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46; f__RBG-16-71-46; g__RBG-16-71-46
+SRR24605835_filtp_woHU_1	2.25	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46; f__RBG-16-71-46; g__JACOSU01
+SRR24605835_filtp_woHU_1	1.65	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46; f__RBG-16-71-46; g__JACRPT01
+SRR24605835_filtp_woHU_1	2.01	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__RBG-16-71-46; f__RBG-16-71-46; g__CAIXRL01
+SRR24605835_filtp_woHU_1	9.91	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__SZUA-252; f__SZUA-252; g__WS-9
+SRR24605835_filtp_woHU_1	4.62	Root; d__Bacteria; p__Eisenbacteria; c__RBG-16-71-46; o__SZUA-252; f__SZUA-252; g__WS-7
+SRR24605835_filtp_woHU_1	1.68	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales; f__Rhabdochlamydiaceae; g__VFKB01
+SRR24605835_filtp_woHU_1	0.56	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales; f__Rhabdochlamydiaceae; g__PALSA-1444
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales; f__Rhabdochlamydiaceae; g__CAJCIW01
+SRR24605835_filtp_woHU_1	1.46	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales; f__FEN-1388; g__JAHFTM01
+SRR24605835_filtp_woHU_1	0.51	Root; d__Bacteria; p__Chlamydiota; c__Chlamydiia; o__Chlamydiales; f__SM23-39; g__DAIDHZ01
+SRR24605835_filtp_woHU_1	0.68	Root; d__Bacteria; p__Armatimonadota; c__Chthonomonadetes; o__Chthonomonadales; f__Chthonomonadaceae; g__JANXSG01
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Armatimonadota; c__Fimbriimonadia; o__Fimbriimonadales; f__Fimbriimonadaceae; g__Fimbriimonas
+SRR24605835_filtp_woHU_1	1.29	Root; d__Bacteria; p__Armatimonadota; c__Fimbriimonadia; o__Fimbriimonadales; f__Fimbriimonadaceae; g__JAEURO01
+SRR24605835_filtp_woHU_1	0.72	Root; d__Bacteria; p__Tectomicrobia; c__Entotheonellia; o__Entotheonellales; f__Entotheonellaceae; g__G958295825
+SRR24605835_filtp_woHU_1	0.79	Root; d__Bacteria; p__Tectomicrobia; c__Entotheonellia; o__Entotheonellales; f__Entotheonellaceae; g__SXND01
+SRR24605835_filtp_woHU_1	5.55	Root; d__Bacteria; p__Myxococcota_A; c__UBA9160; o__SZUA-336; f__SZUA-336; g__VGRW01
+SRR24605835_filtp_woHU_1	0.7	Root; d__Bacteria; p__Myxococcota_A; c__UBA9160; o__UBA9160; f__PR03; g__PR03
+SRR24605835_filtp_woHU_1	1.41	Root; d__Bacteria; p__Myxococcota_A; c__UBA9160; o__UBA9160; f__UBA9160; g__MYXO
+SRR24605835_filtp_woHU_1	0.74	Root; d__Bacteria; p__Dependentiae; c__Babeliae; o__Babeliales; f__Vermiphilaceae; g__SOIL31
+SRR24605835_filtp_woHU_1	0.99	Root; d__Bacteria; p__Dependentiae; c__Babeliae; o__Babeliales; f__Vermiphilaceae; g__JAPLIS01
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Fibrobacterota; c__Fibrobacteria; o__UBA11236; f__UBA11236; g__UBA11236
+SRR24605835_filtp_woHU_1	0.45	Root; d__Bacteria; p__Krumholzibacteriota; c__Krumholzibacteria; o__WVZY01; f__JAKEHA01; g__JAKEHA01
+SRR24605835_filtp_woHU_1	0.63	Root; d__Bacteria; p__FCPU426; c__Palsa-1180; o__Palsa-1180; f__Palsa-1180; g__PALSA-1180
+SRR24605835_filtp_woHU_1	0.4	Root; d__Bacteria; p__FCPU426; c__Palsa-1180; o__Palsa-1180; f__Palsa-1180; g__JAJPJW01
+SRR24605835_filtp_woHU_1	6.05	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrosopumilaceae; g__TA-20; s__TA-20 sp005877305
+SRR24605835_filtp_woHU_1	0.77	Root; d__Archaea; p__Thermoproteota; c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrosopumilaceae; g__TA-20; s__TA-20 sp016201435
+SRR24605835_filtp_woHU_1	1.04	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Xanthobacteraceae; g__WHTP01; s__WHTP01 sp019745775
+SRR24605835_filtp_woHU_1	5.21	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Hyphomicrobiaceae; g__AWTP1-13; s__AWTP1-13 sp005888525
+SRR24605835_filtp_woHU_1	0.69	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__Methylocella; s__Methylocella sp003244015
+SRR24605835_filtp_woHU_1	1.52	Root; d__Bacteria; p__Pseudomonadota; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__Methylocella; s__Methylocella sp030948025
+SRR24605835_filtp_woHU_1	1.74	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__LMDS01; s__LMDS01 sp001425865
+SRR24605835_filtp_woHU_1	0.59	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__LMDS01; s__LMDS01 sp026224975
+SRR24605835_filtp_woHU_1	4.95	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__FEN-1191; s__FEN-1191 sp028870705
+SRR24605835_filtp_woHU_1	2.7	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__13-2-20CM-66-19; s__13-2-20CM-66-19 sp005878095
+SRR24605835_filtp_woHU_1	2.41	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__13-2-20CM-66-19; s__13-2-20CM-66-19 sp005877965
+SRR24605835_filtp_woHU_1	3.76	Root; d__Bacteria; p__Pseudomonadota; c__Gammaproteobacteria; o__Steroidobacterales; f__Steroidobacteraceae; g__13-2-20CM-66-19; s__13-2-20CM-66-19 sp955652795
+SRR24605835_filtp_woHU_1	2.16	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__Gp6-AA45; s__Gp6-AA45 sp003222535
+SRR24605835_filtp_woHU_1	2.46	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__Gp6-AA45; s__Gp6-AA45 sp025358945
+SRR24605835_filtp_woHU_1	1.02	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__Gp6-AA45; s__Gp6-AA45 sp016195265
+SRR24605835_filtp_woHU_1	2.0	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__Gp6-AA45; s__Gp6-AA45 sp020073005
+SRR24605835_filtp_woHU_1	0.98	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__Gp6-AA45; s__Gp6-AA45 sp016195295
+SRR24605835_filtp_woHU_1	1.04	Root; d__Bacteria; p__Acidobacteriota; c__Vicinamibacteria; o__Vicinamibacterales; f__UBA2999; g__JAHFUI01; s__JAHFUI01 sp023265175
+SRR24605835_filtp_woHU_1	2.82	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales; f__UBA7541; g__Palsa-360; s__Palsa-360 sp020073705
+SRR24605835_filtp_woHU_1	2.36	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales; f__UBA7541; g__Acidoferrum; s__Acidoferrum sp013289585
+SRR24605835_filtp_woHU_1	2.7	Root; d__Bacteria; p__Acidobacteriota; c__Terriglobia; o__Acidoferrales; f__UBA7541; g__Acidoferrum; s__Acidoferrum sp003223295
+SRR24605835_filtp_woHU_1	2.45	Root; d__Bacteria; p__Chloroflexota; c__Dehalococcoidia; o__DSTF01; f__JACRBR01; g__JANXYW01; s__JANXYW01 sp025355835
+SRR24605835_filtp_woHU_1	0.86	Root; d__Bacteria; p__Desulfobacterota_B; c__Binatia; o__Binatales; f__Binataceae; g__JAKAVN01; s__JAKAVN01 sp021827495
+SRR24605835_filtp_woHU_1	19.02	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae; g__Palsa-1315; s__Palsa-1315 sp005887945
+SRR24605835_filtp_woHU_1	4.64	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae; g__Palsa-1315; s__Palsa-1315 sp003135435
+SRR24605835_filtp_woHU_1	8.15	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae; g__Palsa-1315; s__Palsa-1315 sp005239475
+SRR24605835_filtp_woHU_1	4.86	Root; d__Bacteria; p__Nitrospirota; c__Nitrospiria; o__Nitrospirales; f__Nitrospiraceae; g__Palsa-1315; s__Palsa-1315 sp016650275
+SRR24605835_filtp_woHU_1	1.48	Root; d__Bacteria; p__Actinomycetota; c__Thermoleophilia; o__Gaiellales; f__JALYLC01; g__JALYLC01; s__JALYLC01 sp030774435
+SRR24605835_filtp_woHU_1	1.58	Root; d__Bacteria; p__Actinomycetota; c__Actinomycetes; o__Streptosporangiales; f__Streptosporangiaceae; g__Palsa-504; s__Palsa-504 sp021154785
+SRR24605835_filtp_woHU_1	5.69	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__AR37; s__AR37 sp030647435
+SRR24605835_filtp_woHU_1	0.94	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__AR37; s__AR37 sp016179165
+SRR24605835_filtp_woHU_1	0.9	Root; d__Bacteria; p__Methylomirabilota; c__Methylomirabilia; o__Rokubacteriales; f__CSP1-6; g__CAMLFJ01; s__CAMLFJ01 sp946479205

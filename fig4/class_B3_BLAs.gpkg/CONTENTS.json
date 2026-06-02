@@ -1,0 +1,1 @@
+{"graftm_package_version": 3, "align_hmm": "class_B3_BLAs.hmm", "search_hmms": ["graftmu95wxcai_search.hmm"], "refpkg": "class_B3_BLAs.gpkg.refpkg", "trusted_cutoff": false, "range": 455.35372340425533, "unaligned_sequence_database": "class_B3_proteins.faa", "diamond_database": "class_B3_proteins.dmnd"}

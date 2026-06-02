@@ -1,0 +1,4 @@
+Protein	Counts	Abundance (copies/cell)	Best_taxonomy
+2688882_len_281_MetaAn_67	1	0.000157998638253123	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia
+OXA-1186	1	0.000172029405356683	no taxid assigned
+OXA-209	2	0.000324040843544588	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia

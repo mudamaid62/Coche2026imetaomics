@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "create_date": "2024-09-16 11:29:15",
+        "format_version": "1.1",
+        "locus": "/tmp/tmp0rzyqy0t/class_C_proteins"
+    },
+    "files": {
+        "aln_fasta": "class_C_proteins_deduplicated_aligned.fasta",
+        "seq_info": "class_C_proteins_seqinfo.csv",
+        "taxonomy": "class_C_proteins_taxonomy.csv"
+    },
+    "md5": {
+        "aln_fasta": "807a0c4d99edb2e14f6aa3d8945d6fc9",
+        "seq_info": "84b0df222901a47d1925863485283270",
+        "taxonomy": "f0a20ad23046e10aaab5ab7aab2af272"
+    },
+    "log": [
+        "Stripped refpkg (removed 0 files)",
+        "Loaded initial files into empty refpkg"
+    ],
+    "rollback": null,
+    "rollforward": null
+}

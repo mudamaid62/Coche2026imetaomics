@@ -1,0 +1,1 @@
+{"graftm_package_version": 3, "align_hmm": "class_A_BLAs.hmm", "search_hmms": ["graftmkjr2tj2d_search.hmm"], "refpkg": "class_A_BLAs.gpkg.refpkg", "trusted_cutoff": false, "range": 456.90458015267177, "unaligned_sequence_database": "class_A_proteins.faa", "diamond_database": "class_A_proteins.dmnd"}

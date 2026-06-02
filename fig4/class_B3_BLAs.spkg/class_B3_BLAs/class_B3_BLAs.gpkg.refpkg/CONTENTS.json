@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "create_date": "2024-09-16 11:28:45",
+        "format_version": "1.1",
+        "locus": "/tmp/tmpdlirwdgq/class_B3_proteins"
+    },
+    "files": {
+        "aln_fasta": "class_B3_proteins_deduplicated_aligned.fasta",
+        "seq_info": "class_B3_proteins_seqinfo.csv",
+        "taxonomy": "class_B3_proteins_taxonomy.csv"
+    },
+    "md5": {
+        "aln_fasta": "5e7b9d7cbe060bfaeed21c0213926f35",
+        "seq_info": "e93de8daa357ed003a77c08c25ce500a",
+        "taxonomy": "0c2006d110bdba7acbabe5630519a5b5"
+    },
+    "log": [
+        "Stripped refpkg (removed 0 files)",
+        "Loaded initial files into empty refpkg"
+    ],
+    "rollback": null,
+    "rollforward": null
+}

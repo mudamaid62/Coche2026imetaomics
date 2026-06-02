@@ -1,0 +1,8 @@
+tax_id,parent_id,rank,tax_name,root,rank_0,rank_1,rank_2,rank_3,rank_4,rank_5
+Root,Root,root,Root,Root,,,,,,
+k__Bacteria,Root,rank_0,k__Bacteria,Root,k__Bacteria,,,,,
+p__Verrucomicrobiota,k__Bacteria,rank_1,p__Verrucomicrobiota,Root,k__Bacteria,p__Verrucomicrobiota,,,,
+c__Verrucomicrobiae,p__Verrucomicrobiota,rank_2,c__Verrucomicrobiae,Root,k__Bacteria,p__Verrucomicrobiota,c__Verrucomicrobiae,,,
+o__Chthoniobacterales,c__Verrucomicrobiae,rank_3,o__Chthoniobacterales,Root,k__Bacteria,p__Verrucomicrobiota,c__Verrucomicrobiae,o__Chthoniobacterales,,
+f__UBA10450,o__Chthoniobacterales,rank_4,f__UBA10450,Root,k__Bacteria,p__Verrucomicrobiota,c__Verrucomicrobiae,o__Chthoniobacterales,f__UBA10450,
+g__AV80,f__UBA10450,rank_5,g__AV80,Root,k__Bacteria,p__Verrucomicrobiota,c__Verrucomicrobiae,o__Chthoniobacterales,f__UBA10450,g__AV80

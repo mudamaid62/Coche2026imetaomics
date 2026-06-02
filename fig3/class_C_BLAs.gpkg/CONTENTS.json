@@ -1,0 +1,1 @@
+{"graftm_package_version": 3, "align_hmm": "class_C_BLAs.hmm", "search_hmms": ["graftmg3sxczro_search.hmm"], "refpkg": "class_C_BLAs.gpkg.refpkg", "trusted_cutoff": false, "range": 604.625, "unaligned_sequence_database": "class_C_proteins.faa", "diamond_database": "class_C_proteins.dmnd"}

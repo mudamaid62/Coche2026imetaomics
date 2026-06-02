@@ -1,0 +1,11 @@
+Protein	Counts	Abundance (copies/cell)	Best_taxonomy
+15953408_len_299_MetaAn_73	1	0.000103857589159291	root;d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingomicrobium
+21506552_len_285_MetaAn_32	1	0.000108941527090166	root;d__Bacteria
+29874149_len_304_MetaAn_74	1	0.00010215500573045	root;d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__Pyrinomonadaceae*
+47638281_len_332_MetaAn_50	1	9.35653956390012e-05	root;d__Bacteria
+OXA-1091	1	0.000114129218856364	root;d__Bacteria
+SPA_MetaAn_17_l285_st714_e1568_se1_ID=173183_2	1	0.000108941527090166	root;d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__Pyrinomonadaceae*
+SPA_MetaAn_17_l311_st2880_e3812_se1_ID=155_3	2	0.000199726132998637	root;d__Bacteria
+SPA_MetaAn_24_l322_st2003_e2968_se-1_ID=9394_3	1	9.64621571138929e-05	root;d__Bacteria
+SPA_MetaAn_32_l313_st176_e1114_se1_ID=121067_1	1	9.92269960120618e-05	root;d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Mycobacteriales
+SPA_MetaAn_73_l291_st361_e1233_se1_ID=77215_2	2	0.000213406005121832	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__JALYOU01;s__JALYOU01 sp030856725

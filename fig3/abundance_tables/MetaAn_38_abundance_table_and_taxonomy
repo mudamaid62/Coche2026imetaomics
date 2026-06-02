@@ -1,0 +1,30 @@
+Protein	Counts	Abundance (copies/cell)	Best_taxonomy
+10198132_len_277_MetaAn_73	1	9.40580575303003e-05	no taxid assigned
+11395053_len_260_MetaAn_24	1	0.000100184444419247	root;d__Bacteria
+13023943_len_328_MetaAn_50	1	7.94776291593419e-05	root;d__Bacteria
+15789789_len_293_MetaAn_50	1	8.89392516783112e-05	root;d__Bacteria
+15953408_len_299_MetaAn_73	1	8.71604666447449e-05	root;d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Sphingomicrobium
+2098040_len_291_MetaAn_24	1	8.95484246350119e-05	root;d__Bacteria
+21008012_len_332_MetaAn_50	1	7.85229429231936e-05	root;d__Bacteria
+34438534_len_242_MetaAn_74	1	0.000107605514376228	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia
+46662723_len_317_MetaAn_17	2	0.000164453710650462	root;d__Bacteria
+5000203_len_342_MetaAn_63	1	7.62336442956953e-05	root;d__Bacteria;p__Acidobacteriota;c__Vicinamibacteria;o__Fen-336;f__Fen-336
+52738725_len_285_MetaAn_17	1	9.14270629140681e-05	root;d__Bacteria
+5492812_len_332_MetaAn_50	1	7.85229429231936e-05	root;d__Bacteria
+65443650_len_276_MetaAn_17	2	0.000188795234609556	root;d__Bacteria
+7939936_len_267_MetaAn_74	2	0.00019513537308525	root;d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__Pyrinomonadaceae*
+OXA-1023	1	9.9422585526325e-05	root;d__Bacteria
+SPA_MetaAn_17_l285_st714_e1568_se1_ID=173183_2	1	9.14270629140681e-05	root;d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__Pyrinomonadaceae*
+SPA_MetaAn_17_l320_st888_e1847_se-1_ID=73518_3	1	8.14583800418177e-05	root;d__Bacteria
+SPA_MetaAn_30_l294_st4575_e5456_se1_ID=4243_4	1	8.86377626895711e-05	root;d__Bacteria
+SPA_MetaAn_31_l284_st130_e981_se-1_ID=168381_1	1	9.17478596260473e-05	root;d__Bacteria
+SPA_MetaAn_31_l296_st1278_e2165_se1_ID=66015_2	3	0.000264122626196197	root;d__Bacteria
+SPA_MetaAn_32_l316_st204_e1151_se1_ID=122933_2	1	8.24862460360362e-05	root;d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__Pyrinomonadaceae;g__JACCYN01;s__JACCYN01 sp013696465
+SPA_MetaAn_33_l296_st220_e1107_se1_ID=88023_2	1	8.80408753987323e-05	root;d__Bacteria
+SPA_MetaAn_54_l279_st191_e1027_se-1_ID=43151_2	2	0.000186772428524453	root;d__Bacteria
+SPA_MetaAn_65_l314_st498_e1439_se-1_ID=119345_2	1	8.30099682330904e-05	root;d__Bacteria
+SPA_MetaAn_73_l277_st102_e932_se1_ID=170480_2	1	9.40580575303003e-05	root;d__Bacteria
+SPA_MetaAn_73_l320_st614_e1573_se1_ID=75642_2	2	0.000162916760083635	root;d__Bacteria
+SPA_MetaAn_74_l344_st43490_e44521_se-1_ID=222_34	1	7.57917101258652e-05	root;d__Bacteria;p__Acidobacteriota;c__Blastocatellia;o__Pyrinomonadales;f__Pyrinomonadaceae;g__OLB17
+SPA_MetaAn_79_l264_st101_e892_se1_ID=20644_1	1	9.86722263902773e-05	root;d__Bacteria
+SPA_MetaAn_82_l309_st3053_e3979_se-1_ID=17574_3	1	8.43488386884628e-05	root;d__Bacteria
