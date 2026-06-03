@@ -1,0 +1,45 @@
+LOCUS       872_cov_1.133415         872 bp    DNA              UNK 01-JAN-1980
+DEFINITION  CS1_contigs.fasta~NODE_48796_length_872_cov_1.133415.
+ACCESSION   CS1_contigs.fasta~NODE_48796_length_872_cov_1.133415
+VERSION     CS1_contigs.fasta~NODE_48796_length_872_cov_1.133415
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     integron        1..828
+                     /integron_id="integron_01"
+                     /integron_type="CALIN"
+     attC            1..42
+                     /attC="attc_001"
+                     /model="attc_4"
+     CDS             1..795
+                     /protein_id="CS1_contigs.fasta~NODE_48796_length_872_cov_1.
+                     133415_1"
+                     /gene="protein"
+                     /model="NA"
+                     /translation="ADAASRRGLPWPLGIKEKLMAIRIFAILFSIFSLATFAHAQEGTL
+                     ERSDWRKFFSEFQAKGTIVVADERQADRAMLVFDPVRSKKRYSPASTFAGHNQDQDLRS
+                     AMRNSTVWVYELFAKEIGDDKARRYLKKIDYGNADPSTSNGDYWIEGSLAISAQEQIAF
+                     LRKLYRNELPFRVEHQRLVKDLMIVEAGRNWILRAKTGWEGRMGWWVGWVEWPTGSVFF
+                     ALNIDTPNRMDDLFKREAIVRAILRSIEALPPNPAVNSDAAR*"
+     attC            759..828
+                     /attC="attc_002"
+                     /model="attc_4"
+ORIGIN
+        1 gccgacgccg cttcgcggcg cggcttacct tggccgttgg gcattaagga aaagttaatg
+       61 gcaatccgaa tcttcgcgat acttttctcc attttttctc ttgccacttt cgcgcatgcg
+      121 caagaaggca cgctagaacg ttctgactgg aggaagtttt tcagcgaatt tcaagccaaa
+      181 ggcacgatag ttgtggcaga cgaacgccaa gcggatcgtg ccatgttggt ttttgatcct
+      241 gtgcgatcga agaaacgcta ctcgcctgca tcgacatttg caggccacaa tcaagaccaa
+      301 gatttgcgat cagcaatgcg gaattctact gtttgggtgt atgagctatt tgcaaaggaa
+      361 attggtgatg acaaagctcg gcgctatttg aagaaaatcg actatggcaa cgccgatcct
+      421 tcgacaagta atggcgatta ctggatagaa ggcagccttg caatctcggc gcaggagcaa
+      481 attgcatttc tcaggaagct ctatcgtaac gagctgccct ttcgggtaga acatcagcgc
+      541 ttggtcaagg atctcatgat tgtggaagcc ggtcgcaact ggatactgcg tgcaaagacg
+      601 ggctgggaag gccgtatggg ttggtgggta ggatgggttg agtggccgac tggctccgta
+      661 ttcttcgcac tgaatattga tacgccaaac agaatggatg atcttttcaa gagggaggca
+      721 atcgtgcggg caatccttcg ctctattgaa gcgttaccgc ccaacccggc agtcaactcg
+      781 gacgctgcgc gataaaaccg cgcagcgccg gttacttcaa cgttagatgc actaagcaca
+      841 taattgctca cagccaaact atcaggtcaa gt
+//
