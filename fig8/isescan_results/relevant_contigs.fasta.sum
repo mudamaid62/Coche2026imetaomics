@@ -1,9 +1,0 @@
-# seqid                                                      family         nIS %Genome          bps4IS          dnaLen
-RUP_CKDN230001570-1A_HT3KTDSX5_L3_contigs.fasta~NODE_14_length_230764_cov_18.695478 IS630            1    0.10             235          230764
-RUP_CKDN230001570-1A_HT3KTDSX5_L3_contigs.fasta~NODE_8_length_331222_cov_11.817572 IS66             1    0.44            1451          331222
-SRR24605842_contigs.fasta~NODE_173_length_50357_cov_10.371277 IS5              1    1.42             714           50357
-SRR6263654_contigs.fasta~NODE_268_length_19389_cov_5.807541  IS982            1    4.85             941           19389
-SRR6266334_contigs.fasta~NODE_159_length_28336_cov_5.450903  IS21             1    6.75            1912           28336
-SRR6266358_contigs.fasta~NODE_287_length_14544_cov_32.400097 IS200/IS605      1   11.74            1708           14544
-shotgun_illumina_3rd_COP_ECA55_contigs.fasta~NODE_9679_length_4870_cov_3.304465 IS200/IS605      1    6.47             315            4870
-relevant_contigs.fasta                                       total            7    0.20            7276         3715818
