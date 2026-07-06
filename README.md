@@ -8,7 +8,7 @@
 
 If you use any of these scripts, please cite the paper below:
 
-[Coche-Miranda, J., Arros, P., Canales, N., Berríos-Pastén, C., Lagos, R., Orlando, J., ... & Marcoleta, A. E. (2025). A structure-guided pipeline to uncover the underexplored beta-lactamases from Antarctic and Subantarctic soil microbiota. bioRxiv, 2025-09.](https://doi.org/10.1101/2025.09.30.679653 "bioRxiv DOI").
+[Coche-Miranda, J., Arros, P., Canales, N., Berríos-Pastén, C., Azziz, G., Lagos, R., Orlando, J., Chávez, F.P. and Marcoleta, A.E. (2026), Antarctic soil microbiomes encode structurally conserved and phylogenetically diverse beta-lactamases. iMetaOmics e70118](https://onlinelibrary.wiley.com/doi/10.1002/imo2.70118 "DOI").
 
 ## Tutorials for correct scripts usage
  
